@@ -1,9 +1,11 @@
 # michigan-uni-sports-scrapper
 
-A simple scrapper for Michigan University sport teams results
+A simple scrapper for University of Michigan sport teams results
 
 Used for assignment 4 of "Applied Plotting, Charting & Data Representation in Python" course:
 https://www.coursera.org/learn/python-plotting/
+
+All data comes from http://www.mgoblue.com/
 
 ### Requirements
 
@@ -13,6 +15,9 @@ Also see requirements.txt
 - pandas
 - pyparsing
 - requests
+
+This is best run on your local machine. The coursera notebook environment has occasional
+problems when it comes to making HTTP requests.
 
 ### Usage
 
