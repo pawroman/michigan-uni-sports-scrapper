@@ -1,0 +1,647 @@
+date,day,discipline,event_id,headtohead,location,opponent,opponent_score,played_at_home,result,score,season,time,tournament
+2008-02-22,Friday,m-basebl,906845,True,"Port St. Lucie, Fla.",Villanova,4,True,Won,13,2007,6:00 p.m. ET,False
+2008-02-23,Saturday,m-basebl,906848,True,"Port St. Lucie, Fla.",Villanova,6,True,Won,16,2007,1:00 p.m. ET,False
+2008-02-24,Sunday,m-basebl,906850,True,"Port St. Lucie, Fla.",Villanova,9,True,Won,18,2007,12:00 p.m. ET,False
+2008-02-28,Thursday,m-basebl,906860,True,"Tempe, Ariz.",Arizona State,15,False,Lost,4,2007,6:30 p.m. MT,False
+2008-02-29,Friday,m-basebl,906863,True,"Surprise, Ariz.",Portland,4,True,Lost,3,2007,4:00 p.m. MT,True
+2008-03-01,Saturday,m-basebl,906870,True,"Surprise, Ariz.",Hawaii,5,False,Won,11,2007,12:00 p.m. MT,True
+2008-03-01,Saturday,m-basebl,912538,True,"Surprise, Ariz.",Arizona State,8,False,Lost,4,2007,4:00 p.m. MT,True
+2008-03-07,Friday,m-basebl,906207,True,"Greenville, N.C.",Georgia Southern,,True,Postponed,,2007,2:00 p.m. ET,False
+2008-03-08,Saturday,m-basebl,914982,True,"Greenville, N.C.",Georgia Southern,12,True,Lost,3,2007,9:30 a.m. ET,True
+2008-03-08,Saturday,m-basebl,906209,True,"Greenville, N.C.",East Carolina,6,False,Lost,5,2007,4:30 p.m. ET,True
+2008-03-09,Sunday,m-basebl,906210,True,"Greenville, N.C.",Pittsburgh,0,False,Won,7,2007,9:00 a.m. ET,True
+2008-03-14,Friday,m-basebl,906873,True,"Conway, S.C.",Presbyterian,2,True,Won,5,2007,12:00 p.m. ET,True
+2008-03-15,Saturday,m-basebl,906876,True,"Conway, S.C.",Ball State,4,True,Won,8,2007,11:00 a.m. ET,True
+2008-03-15,Saturday,m-basebl,906879,True,"Conway, S.C.",Coastal Carolina,1,True,Won,4,2007,2:30 p.m. ET,True
+2008-03-16,Sunday,m-basebl,906926,True,"Conway, S.C.",Coastal Carolina,11,True,Lost,9,2007,1:00 p.m. ET,True
+2008-03-19,Wednesday,m-basebl,906935,True,"Ann Arbor, Mich.",Oakland,,True,Postponed,,2007,3:05 p.m. ET,False
+2008-03-20,Thursday,m-basebl,906938,True,"Ann Arbor, Mich.",Oakland,4,True,Won,7,2007,4:05 p.m. ET,False
+2008-03-21,Friday,m-basebl,906942,True,"Ann Arbor, Mich.",IPFW,,True,Postponed,,2007,3:05 p.m. ET,False
+2008-03-24,Monday,m-basebl,918002,True,"Ann Arbor, Mich.",Oakland,,True,Postponed,,2007,3:05 p.m. ET,False
+2008-03-25,Tuesday,m-basebl,906977,True,"Ann Arbor, Mich.",Bowling Green,,True,Postponed,,2007,3:05 p.m. ET,False
+2008-03-26,Wednesday,m-basebl,918726,True,"Ann Arbor, Mich.",IPFW,2,True,Won,4,2007,5:05 p.m. ET,False
+2008-03-28,Friday,m-basebl,906979,True,"Ann Arbor, Mich.",Iowa,,True,Postponed,,2007,3:05 p.m. ET,False
+2008-03-29,Saturday,m-basebl,906982,True,"Ann Arbor, Mich.",Iowa,3,True,Won,4,2007,1:05 p.m. ET,False
+2008-03-29,Saturday,m-basebl,906986,True,"Ann Arbor, Mich.",Iowa,3,True,Won,5,2007,4:05 p.m. ET,False
+2008-03-30,Sunday,m-basebl,906987,True,"Ann Arbor, Mich.",Iowa,3,True,Won,6,2007,12:05 p.m. ET,False
+2008-03-30,Sunday,m-basebl,921508,True,"Ann Arbor, Mich.",Iowa,2,True,Won,3,2007,2:35 p.m. ET,False
+2008-04-02,Wednesday,m-basebl,906988,True,"Mt. Pleasant, Mich.",C. Michigan,7,False,Lost,3,2007,3:05 p.m. ET,False
+2008-04-04,Friday,m-basebl,906989,True,"State College, Pa.",Penn State,3,False,Won,4,2007,6:35 p.m. ET,False
+2008-04-05,Saturday,m-basebl,906990,True,"State College, Pa.",Penn State,0,False,Won,1,2007,2:05 p.m. ET,False
+2008-04-05,Saturday,m-basebl,906991,True,"State College, Pa.",Penn State,3,False,Won,6,2007,4:05 p.m. ET,False
+2008-04-06,Sunday,m-basebl,906992,True,"State College, Pa.",Penn State,10,False,Lost,1,2007,1:05 p.m. ET,False
+2008-04-09,Wednesday,m-basebl,906993,True,"Ann Arbor, Mich.",Toledo,4,True,Won,12,2007,3:05 p.m. ET,False
+2008-04-11,Friday,m-basebl,906994,True,"Champaign, Ill.",Illinois,5,False,Won,9,2007,6:05 p.m. CT,False
+2008-04-12,Saturday,m-basebl,906998,True,"Champaign, Ill.",Illinois,4,False,Won,14,2007,1:05 p.m. CT,False
+2008-04-12,Saturday,m-basebl,906996,True,"Champaign, Ill.",Illinois,6,False,Won,14,2007,3:35 p.m. CT,False
+2008-04-13,Sunday,m-basebl,907003,True,"Champaign, Ill.",Illinois,4,False,Won,7,2007,1:05 p.m. CT,False
+2008-04-15,Tuesday,m-basebl,922360,True,"Ann Arbor, Mich.",Eastern Michigan,3,True,Won,5,2007,6:30 p.m. ET,False
+2008-04-16,Wednesday,m-basebl,907030,True,"Ann Arbor, Mich.",Eastern Michigan,5,True,Won,20,2007,3:05 p.m. ET,False
+2008-04-18,Friday,m-basebl,907033,True,"Ann Arbor, Mich.",Michigan State,3,True,Won,8,2007,6:35 p.m. ET,False
+2008-04-19,Saturday,m-basebl,907041,True,"East Lansing, Mich.",Michigan State,4,False,Won,10,2007,1:05 p.m. ET,False
+2008-04-19,Saturday,m-basebl,907038,True,"East Lansing, Mich.",Michigan State,1,False,Won,7,2007,3:35 p.m. ET,False
+2008-04-20,Sunday,m-basebl,907045,True,"Ann Arbor, Mich.",Michigan State,6,True,Won,27,2007,1:05 p.m. ET,False
+2008-04-25,Friday,m-basebl,907046,True,"Bloomington, Ind.",Indiana,6,False,Won,14,2007,3:05 p.m. ET,False
+2008-04-26,Saturday,m-basebl,907047,True,"Bloomington, Ind.",Indiana,2,False,Lost,1,2007,1:00 p.m. ET,False
+2008-04-26,Saturday,m-basebl,907048,True,"Bloomington, Ind.",Indiana,4,False,Won,11,2007,3:00 p.m. ET,False
+2008-04-27,Sunday,m-basebl,907049,True,"Bloomington, Ind.",Indiana,11,False,Lost,4,2007,1:00 p.m. ET,False
+2008-04-29,Tuesday,m-basebl,907053,True,"Ann Arbor, Mich.",Western Michigan,4,True,Won,7,2007,6:35 p.m. ET,False
+2008-05-02,Friday,m-basebl,907055,True,"Ann Arbor, Mich.",Ohio State,1,True,Won,4,2007,6:35 p.m. ET,False
+2008-05-03,Saturday,m-basebl,907060,True,"Ann Arbor, Mich.",Ohio State,1,True,Won,6,2007,1:05 p.m. ET,False
+2008-05-03,Saturday,m-basebl,907058,True,"Ann Arbor, Mich.",Ohio State,3,True,Lost,2,2007,3:35 p.m. ET,False
+2008-05-04,Sunday,m-basebl,907070,True,"Ann Arbor, Mich.",Ohio State,1,True,Won,15,2007,1:05 p.m. ET,False
+2008-05-06,Tuesday,m-basebl,933048,True,"Muncie, Ind.",Ball State,8,False,Won,15,2007,4:30 p.m. ET,False
+2008-05-09,Friday,m-basebl,907074,True,"Minneapolis, Minn.",Minnesota,2,False,Won,4,2007,6:35 p.m. CT,False
+2008-05-10,Saturday,m-basebl,907080,True,"Minneapolis, Minn.",Minnesota,,False,Postponed,,2007,2:35 p.m. CT,False
+2008-05-10,Saturday,m-basebl,907077,True,"Minneapolis, Minn.",Minnesota,,False,Postponed,,2007,5:05 p.m. CT,False
+2008-05-11,Sunday,m-basebl,907092,True,"Minneapolis, Minn.",Minnesota,5,False,Won,11,2007,12:05 p.m. CT,False
+2008-05-11,Sunday,m-basebl,1107018,True,"Minneapolis, Minn.",Minnesota,8,False,Won,12,2007,4:00 p.m. CT,False
+2008-05-13,Tuesday,m-basebl,907093,True,"Grand Rapids, Mich.",Notre Dame,12,True,Won,15,2007,7:05 p.m. ET,False
+2008-05-15,Thursday,m-basebl,907095,True,"Ann Arbor, Mich.",Northwestern,4,True,Won,9,2007,6:35 p.m. ET,False
+2008-05-16,Friday,m-basebl,907097,True,"Ann Arbor, Mich.",Northwestern,1,True,Won,7,2007,4:05 p.m. ET,False
+2008-05-16,Friday,m-basebl,907096,True,"Ann Arbor, Mich.",Northwestern,2,True,Lost,0,2007,7:05 p.m. ET,False
+2008-05-17,Saturday,m-basebl,907098,True,"Ann Arbor, Mich.",Northwestern,2,True,Won,11,2007,1:05 p.m. ET,False
+2008-05-22,Thursday,m-basebl,936104,True,"Ann Arbor, Mich.",Illinois,2,True,Won,5,2007,7:05 p.m. ET,True
+2008-05-23,Friday,m-basebl,937086,True,"Ann Arbor, Mich.",Purdue,1,True,Won,6,2007,7:05 p.m. ET,True
+2008-05-24,Saturday,m-basebl,937379,True,"Ann Arbor, Mich.",Purdue,2,False,Won,3,2007,7:05 p.m. ET,True
+2008-05-30,Friday,m-basebl,937773,True,"Ann Arbor, Mich.",Kentucky,,True,,,2007,7:00 p.m. ET,False
+2008-05-31,Saturday,m-basebl,939376,True,"Ann Arbor, Mich.",Kentucky,5,True,Won,7,2007,11:00 a.m. ET,True
+2008-05-31,Saturday,m-basebl,939047,True,"Ann Arbor, Mich.",Arizona,4,False,Lost,3,2007,7:00 p.m. ET,True
+2008-06-01,Sunday,m-basebl,939501,True,"Ann Arbor, Mich.",Kentucky,12,False,Lost,6,2007,2:00 p.m. ET,True
+2009-02-20,Friday,m-basebl,1052448,True,"Clearwater, Fla.",USF,5,True,Won,6,2008,1:00 p.m. ET,True
+2009-02-21,Saturday,m-basebl,1052411,True,"Clearwater, Fla.",Cincinnati,1,False,Won,6,2008,4:00 p.m. ET,True
+2009-02-22,Sunday,m-basebl,1052412,True,"Clearwater, Fla.",St. John's,2,False,Won,4,2008,1:00 p.m. ET,True
+2009-02-21,Saturday,m-basebl,1052410,True,"Clearwater, Fla.",Purdue,3,True,Won,4,2008,11:00 a.m. ET,False
+2009-02-25,Wednesday,m-basebl,1052449,True,"Jacksonville, Fla.",UNF,8,True,Won,9,2008,7:00 p.m. ET,False
+2009-02-27,Friday,m-basebl,1052413,True,"Jacksonville, Fla.",Milwaukee,19,True,Lost,11,2008,1:00 p.m. ET,True
+2009-02-28,Saturday,m-basebl,1052452,True,"Jacksonville, Fla.",Jacksonville,3,False,Won,21,2008,3:30 p.m. ET,True
+2009-02-28,Saturday,m-basebl,1065119,True,"Jacksonville, Fla.",Jacksonville,10,False,Lost,2,2008,6:00 p.m. ET,True
+2009-03-01,Sunday,m-basebl,1052456,True,"Jacksonville, Fla.",Akron,7,False,Won,10,2008,12:00 p.m. ET,True
+2009-03-06,Friday,m-basebl,1052415,True,"Port St. Lucie, Fla.",Siena,3,True,Won,11,2008,1:00 p.m. ET,False
+2009-03-07,Saturday,m-basebl,1052416,True,"Port St. Lucie, Fla.",Siena,3,True,Won,12,2008,11:00 a.m. ET,False
+2009-03-07,Saturday,m-basebl,1052417,True,"Port St. Lucie, Fla.",Siena,6,True,Won,19,2008,2:00 p.m. ET,False
+2009-03-08,Sunday,m-basebl,1066940,True,"Port St. Lucie, Fla.",New York Mets,18,False,Lost,7,2008,12:10 p.m. ET,False
+2009-03-13,Friday,m-basebl,1052418,True,"Tuscon, Ariz.",Arizona,2,False,Lost,0,2008,7:00 p.m. MT,False
+2009-03-14,Saturday,m-basebl,1052419,True,"Tuscon, Ariz.",Arizona,9,False,Lost,7,2008,4:00 p.m. MT,False
+2009-03-15,Sunday,m-basebl,1052421,True,"Tuscon, Ariz.",Arizona,14,False,Lost,0,2008,11:00 a.m. MT,False
+2009-03-17,Tuesday,m-basebl,1105912,True,"Ypsilanti, Mich.",Eastern Michigan,5,False,Won,11,2008,6:00 p.m. ET,False
+2009-03-20,Friday,m-basebl,1052422,True,"Ann Arbor, Mich.",IPFW,2,True,Won,4,2008,3:05 p.m. ET,False
+2009-03-21,Saturday,m-basebl,1052423,True,"Ann Arbor, Mich.",IPFW,1,True,Won,4,2008,1:05 p.m. ET,False
+2009-03-22,Sunday,m-basebl,1052424,True,"Ann Arbor, Mich.",IPFW,2,True,Won,9,2008,1:05 p.m. ET,False
+2009-03-24,Tuesday,m-basebl,1070869,True,"Ann Arbor, Mich.",Eastern Michigan,3,True,Lost,1,2008,3:00 p.m. ET,False
+2009-03-27,Friday,m-basebl,1052425,True,"Iowa City, Iowa",Iowa,3,False,Won,4,2008,4:00 p.m. CT,False
+2009-03-28,Saturday,m-basebl,1052426,True,"Iowa City, Iowa",Iowa,2,False,Lost,1,2008,12:00 p.m. CT,False
+2009-03-29,Sunday,m-basebl,1052427,True,"Iowa City, Iowa",Iowa,5,False,Won,7,2008,4:00 p.m. CT,False
+2009-03-31,Tuesday,m-basebl,1052428,True,"Ann Arbor, Mich.",Bowling Green,8,True,Lost,3,2008,3:05 p.m. ET,False
+2009-04-01,Wednesday,m-basebl,1052429,True,"Ann Arbor, Mich.",Oakland,13,True,Won,14,2008,3:05 p.m. ET,False
+2009-04-03,Friday,m-basebl,1106001,True,"Ann Arbor, Mich.",Penn State,,True,Postponed,,2008,4:00 p.m. ET,False
+2009-04-04,Saturday,m-basebl,1052431,True,"Ann Arbor, Mich.",Penn State,6,True,Lost,4,2008,12:05 p.m. ET,False
+2009-04-04,Saturday,m-basebl,1073843,True,"Ann Arbor, Mich.",Penn State,5,True,Won,9,2008,2:35 p.m. ET,False
+2009-04-05,Sunday,m-basebl,1052432,True,"Ann Arbor, Mich.",Penn State,16,True,Lost,5,2008,1:05 p.m. ET,False
+2009-04-07,Tuesday,m-basebl,1052457,True,"Ann Arbor, Mich.",Akron,,True,Cancelled,,2008,6:05 p.m. ET,False
+2009-04-08,Wednesday,m-basebl,1052458,True,"Ann Arbor, Mich.",C. Michigan,10,True,Lost,2,2008,6:05 p.m. ET,False
+2009-04-10,Friday,m-basebl,1052433,True,"Ann Arbor, Mich.",Illinois,2,True,Won,4,2008,6:05 p.m. ET,False
+2009-04-11,Saturday,m-basebl,1052434,True,"Ann Arbor, Mich.",Illinois,10,True,Lost,8,2008,3:05 p.m. ET,False
+2009-04-12,Sunday,m-basebl,1052435,True,"Ann Arbor, Mich.",Illinois,11,True,Lost,5,2008,1:05 p.m. ET,False
+2009-04-14,Tuesday,m-basebl,1052462,True,"Ann Arbor, Mich.",Toledo,,True,Cancelled,,2008,6:05 p.m. ET,False
+2009-04-15,Wednesday,m-basebl,1052461,True,"Ann Arbor, Mich.",Eastern Michigan,3,True,Won,4,2008,3:05 p.m. ET,False
+2009-04-15,Wednesday,m-basebl,1076194,True,"Ann Arbor, Mich.",Eastern Michigan,11,True,Lost,5,2008,5:35 p.m. ET,False
+2009-04-17,Friday,m-basebl,1052436,True,"East Lansing, Mich.",Michigan State,8,False,Lost,7,2008,3:05 p.m. ET,False
+2009-04-18,Saturday,m-basebl,1053652,True,"Ann Arbor, Mich.",Michigan State,3,True,Lost,1,2008,1:05 p.m. ET,False
+2009-04-19,Sunday,m-basebl,1052438,True,"East Lansing, Mich.",Michigan State,2,False,Won,9,2008,1:05 p.m. ET,False
+2009-04-21,Tuesday,m-basebl,1106016,True,"Ann Arbor, Mich.",Notre Dame,,True,Cancelled,,2008,7:05 p.m. ET,False
+2009-04-22,Wednesday,m-basebl,1077388,True,"South Bend, Ind.",Notre Dame,2,False,Won,3,2008,4:30 p.m. ET,False
+2009-04-22,Wednesday,m-basebl,1052440,True,"South Bend, Ind.",Notre Dame,3,False,Lost,2,2008,6:05 p.m. ET,False
+2009-04-24,Friday,m-basebl,1052441,True,"Ann Arbor, Mich.",Indiana,2,True,Won,6,2008,6:35 p.m. ET,False
+2009-04-25,Saturday,m-basebl,1052443,True,"Ann Arbor, Mich.",Indiana,8,True,Lost,7,2008,1:05 p.m. ET,False
+2009-04-26,Sunday,m-basebl,1052444,True,"Ann Arbor, Mich.",Indiana,3,True,Lost,1,2008,1:05 p.m. ET,False
+2009-05-01,Friday,m-basebl,1052463,True,"Columbus, Ohio",Ohio State,,False,Postponed,,2008,7:00 p.m. ET,False
+2009-05-02,Saturday,m-basebl,1052464,True,"Columbus, Ohio",Ohio State,6,False,Lost,0,2008,1:00 p.m. ET,False
+2009-05-02,Saturday,m-basebl,1079430,True,"Columbus, Ohio",Ohio State,9,False,Lost,6,2008,3:30 p.m. ET,False
+2009-05-03,Sunday,m-basebl,1052465,True,"Columbus, Ohio",Ohio State,2,False,Won,9,2008,1:00 p.m. ET,False
+2009-05-05,Tuesday,m-basebl,1052466,True,"Kalamazoo, Mich.",Western Michigan,1,False,Won,20,2008,3:05 p.m. ET,False
+2009-05-06,Wednesday,m-basebl,1052467,True,"Ann Arbor, Mich.",Western Michigan,0,True,Won,6,2008,6:35 p.m. ET,False
+2009-05-08,Friday,m-basebl,1052469,True,"Ann Arbor, Mich.",Minnesota,9,True,Lost,5,2008,6:35 p.m. ET,False
+2009-05-09,Saturday,m-basebl,1052468,True,"Ann Arbor, Mich.",Minnesota,12,True,Lost,5,2008,1:05 p.m. ET,False
+2009-05-10,Sunday,m-basebl,1052470,True,"Ann Arbor, Mich.",Minnesota,4,True,Won,10,2008,1:05 p.m. ET,False
+2009-05-12,Tuesday,m-basebl,1052544,True,"Ann Arbor, Mich.",Ball State,5,True,Won,8,2008,3:05 p.m. ET,False
+2009-05-12,Tuesday,m-basebl,1080792,True,"Ann Arbor, Mich.",Ball State,2,True,Won,5,2008,5:35 p.m. ET,False
+2009-05-14,Thursday,m-basebl,1052445,True,"Evanston, Ill.",Northwestern,6,False,Won,16,2008,3:00 p.m. CT,False
+2009-05-15,Friday,m-basebl,1052446,True,"Evanston, Ill.",Northwestern,,False,Postponed,,2008,3:00 p.m. CT,False
+2009-05-16,Saturday,m-basebl,1106058,True,"Evanston, Ill.",Northwestern,10,False,Lost,6,2008,11:00 a.m. CT,False
+2009-05-16,Saturday,m-basebl,1052447,True,"Evanston, Ill.",Northwestern,6,False,Lost,5,2008,2:00 p.m. CT,False
+2009-10-05,Monday,m-basebl,1151033,True,"Ann Arbor, Mich.",Ontario Blue Jays,1,True,Won,27,2009,4:00 p.m. ET,False
+2010-02-19,Friday,m-basebl,1151128,True,"Lubbock, Texas",Jacksonville State,11,False,Won,19,2009,1:00 p.m. CT,True
+2010-02-20,Saturday,m-basebl,1151142,True,"Lubbock, Texas",Jacksonville State,2,True,Won,14,2009,1:00 p.m. CT,True
+2010-02-20,Saturday,m-basebl,1198474,True,"Lubbock, Texas",Texas Tech,4,False,Lost,2,2009,4:00 p.m. CT,True
+2010-02-21,Sunday,m-basebl,1198475,True,"Lubbock, Texas",Texas Tech,18,False,Lost,5,2009,11:00 a.m. CT,True
+2010-02-26,Friday,m-basebl,1151154,True,"Dunedin, Fla.",Louisville,2,True,Lost,0,2009,7:30 p.m. ET,True
+2010-02-27,Saturday,m-basebl,1151157,True,"St. Petersburg, Fla.",St. John's,2,True,Lost,1,2009,8:00 p.m. ET,True
+2010-02-28,Sunday,m-basebl,1151162,True,"St. Petersburg, Fla.",USF,2,False,Won,4,2009,1:00 p.m. ET,True
+2010-03-03,Wednesday,m-basebl,1151166,True,"Fort Myers, Fla.",Florida Gulf Coast,7,False,Won,13,2009,6:00 p.m. ET,False
+2010-03-05,Friday,m-basebl,1151176,True,"Chapel Hill, NC",North Carolina,4,False,Lost,2,2009,3:00 p.m. ET,False
+2010-03-06,Saturday,m-basebl,1151201,True,"Chapel Hill, NC",North Carolina,7,False,Lost,6,2009,2:00 p.m. ET,False
+2010-03-07,Sunday,m-basebl,1151204,True,"Chapel Hill, NC",North Carolina,9,False,Lost,1,2009,1:00 p.m. ET,False
+2010-03-12,Friday,m-basebl,1151211,True,"Myrtle Beach, S.C. (BB&T Field)",Ball State,8,True,Won,12,2009,3:00 p.m. ET,True
+2010-03-13,Saturday,m-basebl,1151217,True,"Conway, S.C.",Lipscomb University,14,False,Won,17,2009,11:00 a.m. ET,True
+2010-03-13,Saturday,m-basebl,1151218,True,"Conway, S.C.",Coastal Carolina,13,False,Lost,4,2009,2:30 p.m. ET,True
+2010-03-14,Sunday,m-basebl,1151222,True,"Myrtle Beach, S.C. (BB&T Field)",Coastal Carolina,3,False,Lost,0,2009,1:00 p.m. ET,True
+2010-03-19,Friday,m-basebl,1151231,True,"Port St. Lucie, Fla.",Fordham,6,True,Won,8,2009,2:30 p.m. ET,False
+2010-03-20,Saturday,m-basebl,1151233,True,"Port St. Lucie, Fla.",Fordham,2,True,Won,13,2009,11:00 a.m. ET,False
+2010-03-20,Saturday,m-basebl,1214110,True,"Port St. Lucie, Fla.",Fordham,0,True,Won,20,2009,2:00 p.m. ET,False
+2010-03-21,Sunday,m-basebl,1151237,True,"Port St. Lucie, Fla.",New York Mets,8,False,Lost,1,2009,11:00 a.m. ET,False
+2010-03-26,Friday,m-basebl,1151241,True,"Ann Arbor, Mich.",IPFW,2,True,Won,10,2009,3:05 p.m. ET,False
+2010-03-27,Saturday,m-basebl,1151243,True,"Ann Arbor, Mich.",IPFW,0,True,Won,8,2009,1:05 p.m. ET,False
+2010-03-27,Saturday,m-basebl,1218930,True,"Ann Arbor, Mich.",IPFW,3,True,Won,12,2009,4:30 p.m. ET,False
+2010-03-30,Tuesday,m-basebl,1151249,True,"Ann Arbor, Mich.",Eastern Michigan,6,True,Won,8,2009,3:00 p.m. ET,False
+2010-04-02,Friday,m-basebl,1151252,True,"Bloomington, Ind.",Indiana,10,False,Won,16,2009,3:00 p.m. ET,False
+2010-04-03,Saturday,m-basebl,1151254,True,"Bloomington, Ind.",Indiana,4,False,Won,6,2009,2:00 p.m. ET,False
+2010-04-04,Sunday,m-basebl,1151256,True,"Bloomington, Ind.",Indiana,26,False,Lost,6,2009,1:00 p.m. ET,False
+2010-04-07,Wednesday,m-basebl,1151259,True,"Ann Arbor, Mich.",C. Michigan,7,True,Won,13,2009,2:30 p.m. ET,False
+2010-04-09,Friday,m-basebl,1151263,True,"Ann Arbor, Mich.",Purdue,8,True,Lost,5,2009,7:00 p.m. ET,False
+2010-04-10,Saturday,m-basebl,1151264,True,"Ann Arbor, Mich.",Purdue,4,True,Won,6,2009,1:00 p.m. ET,False
+2010-04-11,Sunday,m-basebl,1151265,True,"Ann Arbor, Mich.",Purdue,4,True,Won,9,2009,12:00 p.m. ET,False
+2010-04-13,Tuesday,m-basebl,1151268,True,"Ann Arbor, Mich.",Toledo,4,True,Won,8,2009,3:05 p.m. ET,False
+2010-04-14,Wednesday,m-basebl,1151269,True,"Ann Arbor, Mich.",Bowling Green,5,True,Won,8,2009,3:05 p.m. ET,False
+2010-04-16,Friday,m-basebl,1151273,True,"Champaign, Ill.",Illinois,1,False,Won,17,2009,6:05 p.m. CT,False
+2010-04-17,Saturday,m-basebl,1151274,True,"Champaign, Ill.",Illinois,6,False,Lost,2,2009,3:05 p.m. CT,False
+2010-04-18,Sunday,m-basebl,1151276,True,"Champaign, Ill.",Illinois,4,False,Won,11,2009,1:05 p.m. CT,False
+2010-04-20,Tuesday,m-basebl,1151278,True,"Ann Arbor, Mich.",Notre Dame,2,True,Won,3,2009,6:35 p.m. ET,False
+2010-04-21,Wednesday,m-basebl,1151281,True,"South Bend, Ind.",Notre Dame,1,False,Won,13,2009,6:05 p.m. ET,False
+2010-04-23,Friday,m-basebl,1151290,True,"Ann Arbor, Mich.",Iowa,5,True,Lost,2,2009,2:30 p.m. ET,False
+2010-04-23,Friday,m-basebl,1224084,True,"Ann Arbor, Mich.",Iowa,5,True,Lost,3,2009,5:00 p.m. ET,False
+2010-04-24,Saturday,m-basebl,1151291,True,"Ann Arbor, Mich.",Iowa,5,True,Won,7,2009,1:05 p.m. ET,False
+2010-04-30,Friday,m-basebl,1151302,True,"Ann Arbor, Mich.",Ohio State,1,True,Won,4,2009,6:35 p.m. ET,False
+2010-05-01,Saturday,m-basebl,1151304,True,"Ann Arbor, Mich.",Ohio State,3,True,Lost,2,2009,6:00 p.m. ET,False
+2010-05-02,Sunday,m-basebl,1151306,True,"Ann Arbor, Mich.",Ohio State,5,True,Won,6,2009,1:05 p.m. ET,False
+2010-05-04,Tuesday,m-basebl,1162571,True,"Kalamazoo, Mich.",Western Michigan,8,False,Won,9,2009,3:00 p.m. ET,False
+2010-05-07,Friday,m-basebl,1151317,True,"Minneapolis, Minn.",Minnesota,14,False,Lost,7,2009,6:35 p.m. CT,False
+2010-05-08,Saturday,m-basebl,1151334,True,"Minneapolis, Minn.",Minnesota,5,False,Lost,4,2009,2:05 p.m. CT,False
+2010-05-09,Sunday,m-basebl,1151337,True,"Minneapolis, Minn.",Minnesota,1,False,Won,2,2009,1:05 p.m. CT,False
+2010-05-11,Tuesday,m-basebl,1151346,True,"East Lansing, Mich.",Michigan State,,False,Cancelled,,2009,3:05 p.m. ET,False
+2010-05-12,Wednesday,m-basebl,1151350,True,"Ann Arbor, Mich.",Michigan State,13,True,Lost,10,2009,6:35 p.m. ET,False
+2010-05-14,Friday,m-basebl,1151355,True,"Ann Arbor, Mich.",Northwestern,3,True,Won,4,2009,6:35 p.m. ET,False
+2010-05-15,Saturday,m-basebl,1151356,True,"Ann Arbor, Mich.",Northwestern,10,True,Lost,8,2009,1:05 p.m. ET,False
+2010-05-16,Sunday,m-basebl,1151358,True,"Ann Arbor, Mich.",Northwestern,14,True,Won,15,2009,1:05 p.m. ET,False
+2010-05-18,Tuesday,m-basebl,1151361,True,"Ann Arbor, Mich.",Ball State,10,True,Won,16,2009,6:35 p.m. ET,False
+2010-05-20,Thursday,m-basebl,1151365,True,"State College, Pa.",Penn State,3,False,Won,6,2009,6:35 p.m. ET,False
+2010-05-21,Friday,m-basebl,1151367,True,"State College, Pa.",Penn State,6,False,Lost,5,2009,5:35 p.m. ET,False
+2010-05-22,Saturday,m-basebl,1151370,True,"State College, Pa.",Penn State,4,False,Won,7,2009,1:05 p.m. ET,False
+2010-05-27,Thursday,m-basebl,1151386,True,"Columbus, Ohio",Iowa,4,True,Won,18,2009,3:35 p.m. ET,True
+2010-05-28,Friday,m-basebl,1151387,True,"Columbus, Ohio",Minnesota,4,False,Lost,3,2009,7:25 p.m. ET,True
+2010-05-29,Saturday,m-basebl,1151389,True,"Columbus, Ohio",Iowa,11,False,Lost,8,2009,3:35 p.m. ET,True
+2010-09-22,Wednesday,m-basebl,1286379,True,"Ann Arbor, Mich.",Ontario Blue Jays,1,True,Won,24,2010,4:00 p.m. ET,False
+2011-02-18,Friday,m-basebl,1303045,True,"St. Petersburg, Fla.",Louisville,6,False,Lost,3,2010,5:25 p.m. ET,True
+2011-02-19,Saturday,m-basebl,1303047,True,"St. Petersburg, Fla.",St. John's,13,True,Lost,6,2010,1:00 p.m. ET,True
+2011-02-20,Sunday,m-basebl,1303049,True,"Clearwater, Fla.",Connecticut,16,False,Lost,9,2010,10:00 a.m. ET,True
+2011-02-25,Friday,m-basebl,1302789,True,"Port St. Lucie, Fla.",Rutgers,8,True,Lost,2,2010,2:00 p.m. ET,False
+2011-02-26,Saturday,m-basebl,1302790,True,"Port St. Lucie, Fla.",Rutgers,9,True,Lost,4,2010,11:00 a.m. ET,False
+2011-02-26,Saturday,m-basebl,1335386,True,"Port St. Lucie, Fla.",Rutgers,5,True,Lost,2,2010,1:30 p.m. ET,False
+2011-02-27,Sunday,m-basebl,1302791,True,"Port St. Lucie, Fla.",New York Mets,7,False,Lost,1,2010,12:10 p.m. ET,False
+2011-03-02,Wednesday,m-basebl,1302792,True,"Ft. Myers, Fla.",Florida Gulf Coast,6,False,Lost,4,2010,6:30 p.m. ET,False
+2011-03-04,Friday,m-basebl,1302795,True,"Huntsville, Texas",Massachusetts,2,True,Won,5,2010,1:30 p.m. CT,True
+2011-03-04,Friday,m-basebl,1302797,True,"Huntsville, Texas",Sam Houston,11,False,Lost,3,2010,6:30 p.m. CT,True
+2011-03-05,Saturday,m-basebl,1302800,True,"Huntsville, Texas",Massachusetts,6,False,Won,11,2010,1:30 p.m. CT,True
+2011-03-06,Sunday,m-basebl,1302802,True,"Huntsville, Texas",Sam Houston,8,True,Lost,0,2010,10:00 a.m. CT,True
+2011-03-11,Friday,m-basebl,1302804,True,"Rock Hill, S.C.",Winthrop,8,False,Lost,5,2010,4:00 p.m. ET,True
+2011-03-12,Saturday,m-basebl,1302808,True,"Rock Hill, S.C.",Stony Brook,3,True,Lost,1,2010,11:00 a.m. ET,True
+2011-03-12,Saturday,m-basebl,1302811,True,"Rock Hill, S.C.",Winthrop,8,False,Won,9,2010,6:00 p.m. ET,True
+2011-03-13,Sunday,m-basebl,1337212,True,"Rock Hill, S.C.",Stony Brook,3,False,Lost,1,2010,10:30 a.m. ET,True
+2011-03-18,Friday,m-basebl,1350834,True,"Ypsilanti, Mich.",Alma,3,True,Won,4,2010,2:00 p.m. ET,True
+2011-03-19,Saturday,m-basebl,1350835,True,"Ypsilanti, Mich.",Oakland,1,False,Won,2,2010,12:00 p.m. ET,True
+2011-03-20,Sunday,m-basebl,1350836,True,"Ypsilanti, Mich.",Eastern Michigan,2,False,Won,5,2010,2:00 p.m. ET,True
+2011-03-18,Friday,m-basebl,1302815,True,"Palo Alto, Calif.",Stanford,,False,Cancelled,,2010,6:00 p.m. PT,False
+2011-03-19,Saturday,m-basebl,1302816,True,"Palo Alto, Calif.",Stanford,,False,Cancelled,,2010,2:00 p.m. PT,False
+2011-03-19,Saturday,m-basebl,1335385,True,"Palo Alto, Calif.",Stanford,,False,Cancelled,,2010,5:30 p.m. PT,False
+2011-03-25,Friday,m-basebl,1302819,True,"Ann Arbor, Mich.",Michigan State,9,True,Lost,3,2010,3:00 p.m. ET,False
+2011-03-26,Saturday,m-basebl,1302821,True,"East Lansing, Mich.",Michigan State,,False,Cancelled,,2010,1:05 p.m. ET,False
+2011-03-27,Sunday,m-basebl,1302822,True,"Ann Arbor, Mich.",Michigan State,5,True,Lost,4,2010,1:00 p.m. ET,False
+2011-03-27,Sunday,m-basebl,1352505,True,"Ann Arbor, Mich.",Michigan State,8,True,Lost,2,2010,3:30 p.m. ET,False
+2011-03-30,Wednesday,m-basebl,1302823,True,"Ypsilanti, Mich.",Eastern Michigan,8,False,Lost,2,2010,4:00 p.m. ET,False
+2011-04-01,Friday,m-basebl,1302824,True,"Ann Arbor, Mich.",Indiana,12,True,Lost,5,2010,3:00 p.m. ET,False
+2011-04-02,Saturday,m-basebl,1302826,True,"Ann Arbor, Mich.",Indiana,2,True,Won,3,2010,1:00 p.m. ET,False
+2011-04-02,Saturday,m-basebl,1353501,True,"Ann Arbor, Mich.",Indiana,10,True,Lost,3,2010,3:30 p.m. ET,False
+2011-04-06,Wednesday,m-basebl,1302829,True,"Mt. Pleasant, Mich.",C. Michigan,9,False,Lost,4,2010,3:05 p.m. ET,False
+2011-04-08,Friday,m-basebl,1302833,True,"West Lafayette, Ind.",Purdue,8,False,Lost,0,2010,4:00 p.m. ET,False
+2011-04-09,Saturday,m-basebl,1302835,True,"West Lafayette, Ind.",Purdue,4,False,Lost,2,2010,12:00 p.m. ET,False
+2011-04-10,Sunday,m-basebl,1302838,True,"West Lafayette, Ind.",Purdue,5,False,Won,6,2010,1:00 p.m. ET,False
+2011-04-12,Tuesday,m-basebl,1302841,True,"Ann Arbor, Mich.",Bowling Green,3,True,Won,13,2010,6:05 p.m. ET,False
+2011-04-13,Wednesday,m-basebl,1302844,True,"Ann Arbor, Mich.",Toledo,3,True,Lost,1,2010,6:05 p.m. ET,False
+2011-04-15,Friday,m-basebl,1302846,True,"Ann Arbor, Mich.",Illinois,9,True,Lost,2,2010,4:00 p.m. ET,False
+2011-04-16,Saturday,m-basebl,1302850,True,"Ann Arbor, Mich.",Illinois,,True,Postponed,,2010,3:00 p.m. ET,False
+2011-04-17,Sunday,m-basebl,1302851,True,"Ann Arbor, Mich.",Illinois,0,True,Won,3,2010,12:00 p.m. ET,False
+2011-04-17,Sunday,m-basebl,1355681,True,"Ann Arbor, Mich.",Illinois,6,True,Won,7,2010,2:30 p.m. ET,False
+2011-04-20,Wednesday,m-basebl,1302857,True,"Ann Arbor, Mich.",Eastern Michigan,3,True,Lost,1,2010,6:05 p.m. ET,False
+2011-04-22,Friday,m-basebl,1356591,True,"Iowa City, Iowa",Iowa,,False,Postponed,,2010,6:05 p.m. CT,False
+2011-04-23,Saturday,m-basebl,1302861,True,"Iowa City, Iowa",Iowa,13,False,Lost,7,2010,1:05 p.m. CT,False
+2011-04-23,Saturday,m-basebl,1356562,True,"Iowa City, Iowa",Iowa,1,False,Won,2,2010,3:30 p.m. CT,False
+2011-04-24,Sunday,m-basebl,1302862,True,"Iowa City, Iowa",Iowa,2,False,Won,5,2010,1:05 p.m. CT,False
+2011-04-29,Friday,m-basebl,1302866,True,"Columbus, Ohio",Ohio State,7,False,Lost,2,2010,7:00 p.m. ET,False
+2011-04-30,Saturday,m-basebl,1302867,True,"Columbus, Ohio",Ohio State,7,False,Lost,6,2010,3:05 p.m. ET,False
+2011-04-30,Saturday,m-basebl,1358130,True,"Columbus, Ohio",Ohio State,4,False,Lost,3,2010,5:35 p.m. ET,False
+2011-05-03,Tuesday,m-basebl,1337213,True,"Ann Arbor, Mich.",Notre Dame,1,True,Won,2,2010,6:05 p.m. ET,False
+2011-05-04,Wednesday,m-basebl,1337214,True,"South Bend, Ind.",Notre Dame,3,False,Won,5,2010,5:35 p.m. ET,False
+2011-05-06,Friday,m-basebl,1302878,True,"Ann Arbor, Mich.",Minnesota,4,True,Lost,1,2010,7:00 p.m. ET,False
+2011-05-07,Saturday,m-basebl,1302879,True,"Ann Arbor, Mich.",Minnesota,11,True,Lost,10,2010,1:00 p.m. ET,False
+2011-05-08,Sunday,m-basebl,1302880,True,"Ann Arbor, Mich.",Minnesota,6,True,Lost,2,2010,1:00 p.m. ET,False
+2011-05-10,Tuesday,m-basebl,1302881,True,"Ann Arbor, Mich.",Texas Tech,8,True,Lost,2,2010,6:05 p.m. ET,False
+2011-05-11,Wednesday,m-basebl,1302882,True,"Ann Arbor, Mich.",Texas Tech,6,True,Lost,4,2010,6:05 p.m. ET,False
+2011-05-13,Friday,m-basebl,1302884,True,"Evanston, Ill.",Northwestern,7,False,Lost,1,2010,3:00 p.m. CT,False
+2011-05-14,Saturday,m-basebl,1302885,True,"Evanston, Ill.",Northwestern,11,False,Lost,6,2010,1:00 p.m. CT,False
+2011-05-15,Sunday,m-basebl,1302886,True,"Evanston, Ill.",Northwestern,,False,Cancelled,,2010,3:00 p.m. CT,False
+2011-05-17,Tuesday,m-basebl,1302888,True,"Ann Arbor, Mich.",Western Michigan,4,True,Won,7,2010,6:05 p.m. ET,False
+2011-05-19,Thursday,m-basebl,1302889,True,"Ann Arbor, Mich.",Penn State,1,True,Lost,0,2010,6:05 p.m. ET,False
+2011-05-20,Friday,m-basebl,1302890,True,"Ann Arbor, Mich.",Penn State,4,True,Won,5,2010,6:05 p.m. ET,False
+2011-05-21,Saturday,m-basebl,1302891,True,"Ann Arbor, Mich.",Penn State,11,True,Lost,8,2010,4:00 p.m. ET,False
+2012-02-17,Friday,m-basebl,1435226,True,"Dunedin, Fla.#",Pittsburgh,9,True,Lost,8,2011,9:00 p.m. ET,True
+2012-02-18,Saturday,m-basebl,1435229,True,"St. Petersburg, Fla.#",Seton Hall,1,True,Won,2,2011,1:00 p.m. ET,True
+2012-02-19,Sunday,m-basebl,1435232,True,"St. Petersburg, Fla.#",West Virginia,3,False,Won,14,2011,12:30 p.m. ET,True
+2012-02-24,Friday,m-basebl,1436177,True,"Port St. Lucie, Fla.",Iona,6,True,Won,9,2011,2:00 p.m. ET,False
+2012-02-25,Saturday,m-basebl,1436182,True,"Port St. Lucie, Fla.",Iona,2,True,Won,11,2011,11:00 a.m. ET,False
+2012-02-25,Saturday,m-basebl,1436184,True,"Port St. Lucie, Fla.",Iona,3,True,Lost,1,2011,1:30 p.m. ET,False
+2012-02-26,Sunday,m-basebl,1436186,True,"Port St. Lucie, Fla.",Iona,5,True,Won,6,2011,11:30 a.m. ET,False
+2012-02-29,Wednesday,m-basebl,1436189,True,"Fort Myers, Fla.",Florida Gulf Coast,8,False,Lost,1,2011,6:30 p.m. ET,False
+2012-03-02,Friday,m-basebl,1436194,True,"Port Charlotte, Fla.",Ohio State,9,True,Lost,4,2011,6:00 p.m. ET,True
+2012-03-03,Saturday,m-basebl,1436196,True,"Port Charlotte, Fla.",Chicago State,8,True,Won,17,2011,12:30 p.m. ET,True
+2012-03-03,Saturday,m-basebl,1436199,True,"Port Charlotte, Fla.",Xavier,7,True,Lost,4,2011,3:00 p.m. ET,True
+2012-03-04,Sunday,m-basebl,1436202,True,"Port Charlotte, Fla.",Xavier,5,True,Lost,3,2011,11:00 a.m. ET,True
+2012-03-09,Friday,m-basebl,1436220,True,"Baton Rouge, La.",Louisiana State,6,False,Lost,0,2011,7:00 p.m. CT,True
+2012-03-10,Saturday,m-basebl,1436221,True,"Baton Rouge, La.",Notre Dame,2,True,Lost,0,2011,12:00 p.m. CT,True
+2012-03-10,Saturday,m-basebl,1436222,True,"Baton Rouge, La.",Louisiana State,6,False,Lost,4,2011,6:30 p.m. CT,True
+2012-03-11,Sunday,m-basebl,1436223,True,"Baton Rouge, La.",Notre Dame,5,False,Won,6,2011,10:00 a.m. CT,True
+2012-03-16,Friday,m-basebl,1472336,True,"Conway, S.C.",Coastal Carolina,7,False,Lost,3,2011,4:00 p.m. ET,True
+2012-03-17,Saturday,m-basebl,1436225,True,"Myrtle Beach, S.C.",UAB,1,False,Won,3,2011,11:00 a.m. ET,True
+2012-03-17,Saturday,m-basebl,1472337,True,"Conway, S.C.",Coastal Carolina,6,False,Lost,2,2011,5:00 p.m. ET,True
+2012-03-18,Sunday,m-basebl,1436230,True,"Myrtle Beach, S.C.",Connecticut,5,True,Won,7,2011,11:00 a.m. ET,True
+2012-03-23,Friday,m-basebl,1436233,True,"Ann Arbor, Mich.",IPFW,8,True,Lost,6,2011,3:05 p.m. ET,False
+2012-03-24,Saturday,m-basebl,1436235,True,"Ann Arbor, Mich.",IPFW,2,True,Won,4,2011,1:05 p.m. ET,False
+2012-03-25,Sunday,m-basebl,1436236,True,"Ann Arbor, Mich.",IPFW,3,True,Won,11,2011,1:05 p.m. ET,False
+2012-03-27,Tuesday,m-basebl,1436239,True,"Ann Arbor, Mich.",Oakland,1,True,Won,6,2011,3:05 p.m. ET,False
+2012-03-28,Wednesday,m-basebl,1436242,True,"Ypsilanti, Mich.",Eastern Michigan,12,False,Lost,2,2011,5:00 p.m. ET,False
+2012-03-30,Friday,m-basebl,1436246,True,"Minneapolis, Minn.",Minnesota,6,False,Lost,3,2011,6:35 p.m. CT,False
+2012-03-31,Saturday,m-basebl,1436248,True,"Minneapolis, Minn.",Minnesota,9,False,Lost,4,2011,2:05 p.m. CT,False
+2012-04-01,Sunday,m-basebl,1436251,True,"Minneapolis, Minn.",Minnesota,4,False,Lost,3,2011,1:05 p.m. CT,False
+2012-04-04,Wednesday,m-basebl,1436253,True,"Ann Arbor, Mich.",C. Michigan,3,True,Won,7,2011,4:05 p.m. ET,False
+2012-04-06,Friday,m-basebl,1436254,True,"Ann Arbor, Mich.",Michigan State,0,True,Won,4,2011,5:35 p.m. ET,False
+2012-04-07,Saturday,m-basebl,1436255,True,"East Lansing, Mich.",Michigan State,3,False,Won,4,2011,1:05 p.m. ET,False
+2012-04-08,Sunday,m-basebl,1436256,True,"Ann Arbor, Mich.",Michigan State,10,True,Lost,8,2011,3:00 p.m. ET,False
+2012-04-10,Tuesday,m-basebl,1436257,True,"Ann Arbor, Mich.",Bowling Green,2,True,Lost,1,2011,4:05 p.m. ET,False
+2012-04-11,Wednesday,m-basebl,1436258,True,"Ann Arbor, Mich.",Toledo,6,True,Lost,2,2011,6:05 p.m. ET,False
+2012-04-13,Friday,m-basebl,1436259,True,"State College, Pa.",Penn State,3,False,Won,7,2011,5:05 p.m. ET,False
+2012-04-14,Saturday,m-basebl,1436260,True,"State College, Pa.",Penn State,14,False,Lost,1,2011,2:05 p.m. ET,False
+2012-04-15,Sunday,m-basebl,1436261,True,"State College, Pa.",Penn State,6,False,Lost,4,2011,1:05 p.m. ET,False
+2012-04-18,Wednesday,m-basebl,1436262,True,"Ann Arbor, Mich.",Eastern Michigan,7,True,Lost,2,2011,6:05 p.m. ET,False
+2012-04-20,Friday,m-basebl,1436263,True,"Ann Arbor, Mich.",Northwestern,,True,Postponed,,2011,6:05 p.m. ET,False
+2012-04-21,Saturday,m-basebl,1436264,True,"Ann Arbor, Mich.",Northwestern,6,True,Lost,5,2011,1:05 p.m. ET,False
+2012-04-21,Saturday,m-basebl,1494021,True,"Ann Arbor, Mich.",Northwestern,8,True,Lost,5,2011,3:35 p.m. ET,False
+2012-04-22,Sunday,m-basebl,1436265,True,"Ann Arbor, Mich.",Northwestern,4,True,Won,5,2011,1:05 p.m. ET,False
+2012-04-27,Friday,m-basebl,1436270,True,"Ann Arbor, Mich.",Indiana,8,True,Lost,1,2011,7:00 p.m. ET,False
+2012-04-28,Saturday,m-basebl,1436271,True,"Ann Arbor, Mich.",Indiana,,True,Postponed,,2011,6:05 p.m. ET,False
+2012-04-29,Sunday,m-basebl,1436272,True,"Ann Arbor, Mich.",Indiana,11,True,Lost,8,2011,12:00 p.m. ET,False
+2012-04-29,Sunday,m-basebl,1497552,True,"Ann Arbor, Mich.",Indiana,11,True,Lost,5,2011,2:30 p.m. ET,False
+2012-05-04,Friday,m-basebl,1436273,True,"Iowa City, Iowa",Iowa,0,False,Won,11,2011,6:05 p.m. CT,False
+2012-05-05,Saturday,m-basebl,1436274,True,"Iowa City, Iowa",Iowa,2,False,Won,8,2011,12:05 p.m. CT,False
+2012-05-05,Saturday,m-basebl,1502009,True,"Iowa City, Iowa",Iowa,7,False,Lost,2,2011,2:35 p.m. CT,False
+2012-05-08,Tuesday,m-basebl,1472338,True,"Ann Arbor, Mich.",Coastal Carolina,6,True,Lost,1,2011,7:00 p.m. ET,False
+2012-05-09,Wednesday,m-basebl,1472339,True,"Ann Arbor, Mich.",Coastal Carolina,2,True,Won,5,2011,6:05 p.m. ET,False
+2012-05-11,Friday,m-basebl,1436278,True,"West Lafayette, Ind.",Purdue,4,False,Lost,0,2011,4:00 p.m. ET,False
+2012-05-12,Saturday,m-basebl,1436279,True,"West Lafayette, Ind.",Purdue,14,False,Lost,3,2011,12:00 p.m. ET,False
+2012-05-13,Sunday,m-basebl,1436280,True,"West Lafayette, Ind.",Purdue,3,False,Won,4,2011,1:00 p.m. ET,False
+2012-05-15,Tuesday,m-basebl,1436281,True,"Kalamazoo, Mich.",Western Michigan,13,False,Lost,6,2011,3:00 p.m. ET,False
+2012-05-17,Thursday,m-basebl,1436282,True,"Ann Arbor, Mich.",Nebraska,15,True,Lost,2,2011,6:05 p.m. ET,False
+2012-05-18,Friday,m-basebl,1436283,True,"Ann Arbor, Mich.",Nebraska,5,True,Won,6,2011,6:05 p.m. ET,False
+2012-05-19,Saturday,m-basebl,1436284,True,"Ann Arbor, Mich.",Nebraska,7,True,Lost,3,2011,1:05 p.m. ET,False
+2013-02-15,Friday,m-basebl,1651971,True,"Berkeley, Calif.",Cal,5,False,Lost,4,2012,1:30 p.m. PT,False
+2013-02-16,Saturday,m-basebl,1651973,True,"Berkeley, Calif.",Cal,6,False,Lost,5,2012,1:00 p.m. PT,False
+2013-02-17,Sunday,m-basebl,1651974,True,"Berkeley, Calif.",Cal,2,False,Lost,1,2012,10:30 a.m. PT,False
+2013-02-22,Friday,m-basebl,1651977,True,"Port St. Lucie, Fla.",Fordham,1,True,Won,9,2012,2:00 p.m. ET,False
+2013-02-23,Saturday,m-basebl,1651979,True,"Port St. Lucie, Fla.",Fordham,2,True,Won,10,2012,11:00 a.m. ET,False
+2013-02-23,Saturday,m-basebl,1651980,True,"Port St. Lucie, Fla.",Fordham,14,True,Lost,11,2012,2:00 p.m. ET,False
+2013-02-24,Sunday,m-basebl,1651985,True,"Port St. Lucie, Fla.",New York Mets,5,False,Lost,2,2012,12:00 p.m. ET,False
+2013-03-01,Friday,m-basebl,1651993,True,"Port Charlotte, Fla.",Mount St. Mary's,7,True,Won,8,2012,11:00 a.m. ET,True
+2013-03-02,Saturday,m-basebl,1651994,True,"Port Charlotte, Fla.",Saint Louis,8,True,Lost,5,2012,11:00 a.m. ET,True
+2013-03-02,Saturday,m-basebl,1651995,True,"Port Charlotte, Fla.",Saint Louis,0,True,Won,11,2012,2:00 p.m. ET,True
+2013-03-03,Sunday,m-basebl,1651998,True,"Port Charlotte, Fla.",Georgetown,2,True,Won,5,2012,2:30 p.m. ET,True
+2013-03-04,Monday,m-basebl,1672907,True,"Fort Myers, Fla.",Florida Gulf Coast,11,False,Lost,6,2012,6:30 p.m. ET,False
+2013-03-07,Thursday,m-basebl,1652004,True,"San Diego, Calif.",Holy Cross,3,True,Won,6,2012,2:00 p.m. PT,True
+2013-03-08,Friday,m-basebl,1652006,True,"San Diego, Calif.",Saint Louis,,False,Postponed,,2012,11:00 a.m. PT,True
+2013-03-09,Saturday,m-basebl,1681937,True,"San Diego, Calif.",Saint Louis,9,True,Lost,5,2012,11:00 a.m. PT,True
+2013-03-10,Sunday,m-basebl,1652009,True,"San Diego, Calif.",Holy Cross,4,False,Won,7,2012,12:15 p.m. PT,True
+2013-03-10,Sunday,m-basebl,1681906,True,"San Diego, Calif.",San Diego,2,False,Won,5,2012,3:30 p.m. PT,True
+2013-03-12,Tuesday,m-basebl,1669640,True,Wilpon Complex,Oakland,,True,Cancelled,,2012,3:05 p.m. ET,False
+2013-03-15,Friday,m-basebl,1652014,True,"Myrtle Beach, S.C.",Coastal Carolina,8,False,Lost,4,2012,4:00 p.m. ET,True
+2013-03-16,Saturday,m-basebl,1652016,True,"Myrtle Beach, S.C.",Coastal Carolina,6,False,Lost,2,2012,3:00 p.m. ET,True
+2013-03-17,Sunday,m-basebl,1652018,True,"Myrtle Beach, S.C.",Akron,2,True,Won,3,2012,11:00 a.m. ET,True
+2013-03-20,Wednesday,m-basebl,1652020,True,"Ypsilanti, Mich.",Eastern Michigan,,False,,,2012,3:05 p.m. ET,False
+2013-03-22,Friday,m-basebl,1652021,True,"Adrian, Mich.",Western Illinois,5,True,Lost,3,2012,11:00 a.m. ET,False
+2013-03-23,Saturday,m-basebl,1652022,True,"Adrian, Mich.",Western Illinois,1,True,Won,6,2012,11:00 a.m. ET,False
+2013-03-23,Saturday,m-basebl,1684707,True,"Adrian, Mich.",Western Illinois,2,True,Lost,1,2012,1:30 p.m. ET,False
+2013-03-26,Tuesday,m-basebl,1652025,True,"Flushing, N.Y. (Citi Field)",Yale,,True,,,2012,12:00 p.m. ET,False
+2013-03-27,Wednesday,m-basebl,1652396,True,Wilpon Complex,Western Michigan,7,True,Lost,3,2012,4:05 p.m. ET,False
+2013-03-29,Friday,m-basebl,1652027,True,Wilpon Complex,Minnesota,3,True,Lost,1,2012,3:05 p.m. ET,False
+2013-03-30,Saturday,m-basebl,1652029,True,Wilpon Complex,Minnesota,3,True,Won,11,2012,12:05 p.m. ET,False
+2013-03-30,Saturday,m-basebl,1686568,True,Wilpon Complex,Minnesota,2,True,Lost,1,2012,2:30 p.m. ET,False
+2013-04-02,Tuesday,m-basebl,1652032,True,Wilpon Complex,Bowling Green,0,True,Won,2,2012,4:05 p.m. ET,False
+2013-04-03,Wednesday,m-basebl,1652033,True,Wilpon Complex,Central Michigan,0,True,Won,7,2012,4:05 p.m. ET,False
+2013-04-05,Friday,m-basebl,1652034,True,"East Lansing, Mich.",Michigan State,3,False,Won,6,2012,3:05 p.m. ET,False
+2013-04-06,Saturday,m-basebl,1652035,True,Wilpon Complex,Michigan State,1,True,Won,5,2012,4:05 p.m. ET,False
+2013-04-07,Sunday,m-basebl,1652036,True,"East Lansing, Mich.",Michigan State,2,False,Won,6,2012,1:05 p.m. ET,False
+2013-04-09,Tuesday,m-basebl,1652037,True,"South Bend, Ind.",Notre Dame,1,False,Won,4,2012,5:35 p.m. ET,False
+2013-04-12,Friday,m-basebl,1652039,True,Wilpon Complex,Penn State,1,True,Won,5,2012,4:05 p.m. ET,False
+2013-04-13,Saturday,m-basebl,1652040,True,Wilpon Complex,Penn State,2,True,Won,3,2012,4:05 p.m. ET,False
+2013-04-14,Sunday,m-basebl,1652042,True,Wilpon Complex,Penn State,1,True,Won,8,2012,12:00 p.m. ET,False
+2013-04-16,Tuesday,m-basebl,1652044,True,Wilpon Complex,Notre Dame,2,True,Won,8,2012,4:05 p.m. ET,False
+2013-04-17,Wednesday,m-basebl,1652046,True,Wilpon Complex,Eastern Michigan,,True,Postponed,,2012,4:35 p.m. ET,False
+2013-04-19,Friday,m-basebl,1652047,True,"Evanston, Ill.",Northwestern,,False,Postponed,,2012,3:00 p.m. CT,False
+2013-04-20,Saturday,m-basebl,1652048,True,"Chicago, Ill. (Wrigley Field)",Northwestern,6,False,Lost,0,2012,6:05 p.m. CT,False
+2013-04-21,Sunday,m-basebl,1652049,True,"Evanston, Ill.",Northwestern,0,False,Won,5,2012,11:00 a.m. CT,False
+2013-04-21,Sunday,m-basebl,1690112,True,"Evanston, Ill.",Northwestern,3,False,Lost,2,2012,1:30 p.m. CT,False
+2013-04-23,Tuesday,m-basebl,1686993,True,"Ypsilanti, Mich.",Eastern Michigan,15,False,Lost,10,2012,6:00 p.m. ET,False
+2013-04-26,Friday,m-basebl,1652052,True,"Bloomington, Ind.",Indiana,9,False,Lost,1,2012,6:05 p.m. ET,False
+2013-04-27,Saturday,m-basebl,1652053,True,"Bloomington, Ind.",Indiana,9,False,Lost,3,2012,4:30 p.m. ET,False
+2013-04-28,Sunday,m-basebl,1652054,True,"Bloomington, Ind.",Indiana,3,False,Lost,2,2012,1:05 p.m. ET,False
+2013-05-03,Friday,m-basebl,1652056,True,Wilpon Complex,Iowa,4,True,Won,5,2012,6:05 p.m. ET,False
+2013-05-04,Saturday,m-basebl,1652059,True,Wilpon Complex,Iowa,4,True,Lost,3,2012,4:05 p.m. ET,False
+2013-05-05,Sunday,m-basebl,1652063,True,Wilpon Complex,Iowa,3,True,Won,4,2012,1:05 p.m. ET,False
+2013-05-07,Tuesday,m-basebl,1691664,True,Wilpon Complex,Eastern Michigan,13,True,Lost,4,2012,6:05 p.m. ET,False
+2013-05-08,Wednesday,m-basebl,1652065,True,Wilpon Complex,Toledo,0,True,Won,7,2012,6:05 p.m. ET,False
+2013-05-10,Friday,m-basebl,1652066,True,Wilpon Complex,Purdue,8,True,Won,9,2012,6:05 p.m. ET,False
+2013-05-11,Saturday,m-basebl,1652068,True,Wilpon Complex,Purdue,6,True,Won,10,2012,4:05 p.m. ET,False
+2013-05-12,Sunday,m-basebl,1652070,True,Wilpon Complex,Purdue,12,True,Lost,9,2012,1:05 p.m. ET,False
+2013-05-14,Tuesday,m-basebl,1695113,True,"Flushing, N.Y. (Citi Field)",Seton Hall,5,True,Lost,3,2012,3:00 p.m. ET,False
+2013-05-16,Thursday,m-basebl,1652074,True,"Lincoln, Neb.",Nebraska,5,False,Won,7,2012,6:35 p.m. CT,False
+2013-05-17,Friday,m-basebl,1652077,True,"Lincoln, Neb.",Nebraska,9,False,Lost,6,2012,6:35 p.m. CT,False
+2013-05-18,Saturday,m-basebl,1652078,True,"Lincoln, Neb.",Nebraska,9,False,Won,19,2012,12:00 p.m. CT,False
+2013-05-22,Wednesday,m-basebl,1652084,True,"Minneapolis, Minn.",Nebraska,11,False,Lost,2,2012,3:35 p.m. CT,True
+2013-05-23,Thursday,m-basebl,1698675,True,"Minneapolis, Minn.",Illinois,3,False,Lost,2,2012,12:05 p.m. CT,True
+2014-02-14,Friday,m-basebl,1754032,True,"San Marcos, Texas",Texas State,8,False,Lost,7,2013,3:30 p.m. CT,True
+2014-02-14,Friday,m-basebl,1754033,True,"San Marcos, Texas",Washington,8,False,Lost,6,2013,7:00 p.m. CT,True
+2014-02-15,Saturday,m-basebl,1754034,True,"San Marcos, Texas",Air Force,2,True,Won,8,2013,6:00 p.m. CT,True
+2014-02-16,Sunday,m-basebl,1754035,True,"San Marcos, Texas",Washington,,True,"T, 7-7",,2013,12:00 p.m. CT,True
+2014-02-21,Friday,m-basebl,1790350,True,"Houston, Texas",Houston,2,False,Lost,1,2013,6:30 p.m. CT,False
+2014-02-22,Saturday,m-basebl,1790351,True,"Houston, Texas",Houston,1,False,Lost,0,2013,6:30 p.m. CT,False
+2014-02-23,Sunday,m-basebl,1790352,True,"Houston, Texas",Houston,4,False,Lost,3,2013,11:30 a.m. CT,False
+2014-02-28,Friday,m-basebl,1791589,True,"Raleigh, N.C.",NC State,3,False,Lost,0,2013,3:00 p.m. ET,True
+2014-03-01,Saturday,m-basebl,1754043,True,"Cary, N.C.",Notre Dame,2,False,Won,4,2013,12:00 p.m. ET,True
+2014-03-01,Saturday,m-basebl,1754041,True,"Cary, N.C.",Appalachian State,4,True,Lost,1,2013,4:00 p.m. ET,True
+2014-03-02,Sunday,m-basebl,1754045,True,"Cary, N.C.",UCLA,5,True,Lost,0,2013,12:00 p.m. ET,True
+2014-03-04,Tuesday,m-basebl,1754046,True,"Fort Myers, Fla.",Florida Gulf Coast,4,False,Won,6,2013,2:00 p.m. ET,False
+2014-03-05,Wednesday,m-basebl,1754047,True,"Orlando, Fla.",UCF,2,False,Won,3,2013,6:30 p.m. ET,False
+2014-03-07,Friday,m-basebl,1754049,True,"Port St. Lucie, Fla.",Princeton,7,True,Lost,3,2013,1:00 p.m. ET,False
+2014-03-08,Saturday,m-basebl,1754050,True,"Port St. Lucie, Fla.",Princeton,2,True,Won,8,2013,11:00 a.m. ET,False
+2014-03-08,Saturday,m-basebl,1754052,True,"Port St. Lucie, Fla.",Princeton,6,True,Lost,5,2013,1:30 p.m. ET,False
+2014-03-09,Sunday,m-basebl,1754054,True,"Port St. Lucie, Fla.",Princeton,2,True,Won,4,2013,11:00 a.m. ET,False
+2014-03-14,Friday,m-basebl,1754056,True,"Charleston, S.C.",Appalachian State,3,False,Won,4,2013,12:00 p.m. ET,True
+2014-03-15,Saturday,m-basebl,1754058,True,"Charleston, S.C.",Charleston,3,False,Lost,2,2013,3:00 p.m. ET,True
+2014-03-15,Saturday,m-basebl,1754059,True,"Charleston, S.C.",Charleston,4,False,Lost,3,2013,5:30 p.m. ET,True
+2014-03-16,Sunday,m-basebl,1754060,True,"Charleston, S.C.",Kent State,2,True,Won,3,2013,10:00 a.m. ET,True
+2014-03-21,Friday,m-basebl,1754064,True,"Bloomington, Ind.",Indiana,5,False,Lost,3,2013,4:05 p.m. ET,False
+2014-03-22,Saturday,m-basebl,1754065,True,"Bloomington, Ind.",Indiana,5,False,Lost,1,2013,2:05 p.m. ET,False
+2014-03-23,Sunday,m-basebl,1754067,True,"Bloomington, Ind.",Indiana,3,False,Won,4,2013,1:05 p.m. ET,False
+2014-03-26,Wednesday,m-basebl,1754068,True,Wilpon Complex,Western Michigan,4,True,Won,12,2013,4:00 p.m. ET,False
+2014-03-28,Friday,m-basebl,1754070,True,Wilpon Complex,Iowa,3,True,Lost,2,2013,4:00 p.m. ET,False
+2014-03-29,Saturday,m-basebl,1754072,True,Wilpon Complex,Iowa,2,True,Won,4,2013,2:00 p.m. ET,False
+2014-03-30,Sunday,m-basebl,1754073,True,Wilpon Complex,Iowa,5,True,Won,6,2013,1:00 p.m. ET,False
+2014-04-02,Wednesday,m-basebl,1754074,True,Wilpon Complex,Central Michigan,3,True,Won,6,2013,6:00 p.m. ET,False
+2014-04-04,Friday,m-basebl,1754076,True,Wilpon Complex,Minnesota,9,True,Lost,6,2013,4:00 p.m. ET,False
+2014-04-05,Saturday,m-basebl,1754079,True,Wilpon Complex,Minnesota,1,True,Won,8,2013,2:00 p.m. ET,False
+2014-04-06,Sunday,m-basebl,1754080,True,Wilpon Complex,Minnesota,3,True,Lost,1,2013,1:00 p.m. ET,False
+2014-04-09,Wednesday,m-basebl,1754082,True,Wilpon Complex,Notre Dame,9,True,Lost,1,2013,7:00 p.m. ET,False
+2014-04-11,Friday,m-basebl,1754084,True,"Champaign, Ill.",Illinois,1,False,Lost,0,2013,6:00 p.m. CT,False
+2014-04-12,Saturday,m-basebl,1754088,True,"Champaign, Ill.",Illinois,9,False,Won,17,2013,3:00 p.m. CT,False
+2014-04-13,Sunday,m-basebl,1754089,True,"Champaign, Ill.",Illinois,2,False,Won,4,2013,1:00 p.m. CT,False
+2014-04-15,Tuesday,m-basebl,1754091,True,Wilpon Complex,Eastern Michigan,,True,,,2013,4:00 p.m. ET,False
+2014-04-16,Wednesday,m-basebl,1794757,True,Wilpon Complex,Eastern Michigan,4,True,Lost,3,2013,4:00 p.m. ET,False
+2014-04-18,Friday,m-basebl,1754093,True,"West Lafayette, Ind.",Purdue,6,False,Won,7,2013,6:30 p.m. ET,False
+2014-04-19,Saturday,m-basebl,1754094,True,"West Lafayette, Ind.",Purdue,6,False,Lost,2,2013,2:00 p.m. ET,False
+2014-04-20,Sunday,m-basebl,1754096,True,"West Lafayette, Ind.",Purdue,3,False,Won,13,2013,1:00 p.m. ET,False
+2014-04-22,Tuesday,m-basebl,1754098,True,Wilpon Complex,Bowling Green,7,True,Lost,4,2013,4:00 p.m. ET,False
+2014-04-25,Friday,m-basebl,1754101,True,Wilpon Complex,Nebraska,6,True,Lost,4,2013,6:00 p.m. ET,False
+2014-04-26,Saturday,m-basebl,1754102,True,Wilpon Complex,Nebraska,3,True,Lost,1,2013,2:00 p.m. ET,False
+2014-04-27,Sunday,m-basebl,1754104,True,Wilpon Complex,Nebraska,5,True,Won,7,2013,1:00 p.m. ET,False
+2014-04-29,Tuesday,m-basebl,1754107,True,Wilpon Complex,Oakland,1,True,Won,3,2013,4:00 p.m. ET,False
+2014-05-02,Friday,m-basebl,1754108,True,"Evanston, Ill.",Northwestern,5,False,Lost,3,2013,3:00 p.m. CT,False
+2014-05-03,Saturday,m-basebl,1754110,True,"Evanston, Ill.",Northwestern,6,False,Won,18,2013,1:00 p.m. CT,False
+2014-05-04,Sunday,m-basebl,1754111,True,"Evanston, Ill.",Northwestern,3,False,Won,5,2013,1:00 p.m. CT,False
+2014-05-06,Tuesday,m-basebl,1754114,True,"Mount Pleasant, Mich.",Central Michigan,1,False,Won,7,2013,4:05 p.m. ET,False
+2014-05-07,Wednesday,m-basebl,1804032,True,Wilpon Complex,Oakland,4,True,Won,7,2013,4:00 p.m. ET,False
+2014-05-09,Friday,m-basebl,1754115,True,Wilpon Complex,Ohio State,1,True,Lost,0,2013,6:00 p.m. ET,False
+2014-05-10,Saturday,m-basebl,1754116,True,Wilpon Complex,Ohio State,1,True,Won,5,2013,2:00 p.m. ET,False
+2014-05-11,Sunday,m-basebl,1754117,True,Wilpon Complex,Ohio State,1,True,Won,4,2013,12:00 p.m. ET,False
+2014-05-13,Tuesday,m-basebl,1754118,True,Wilpon Complex,UIC,1,True,Won,2,2013,6:00 p.m. ET,False
+2014-05-17,Saturday,m-basebl,1754119,True,Wilpon Complex,Kansas,8,True,Lost,2,2013,2:00 p.m. ET,False
+2014-05-18,Sunday,m-basebl,1754120,True,Wilpon Complex,Kansas,0,True,Won,4,2013,1:00 p.m. ET,False
+2014-05-21,Wednesday,m-basebl,1754121,True,"Omaha, Neb.",Minnesota,2,False,Won,3,2013,9:00 p.m. CT,True
+2014-05-22,Thursday,m-basebl,1754122,True,"Omaha, Neb.",Indiana,5,True,Lost,0,2013,9:00 p.m. CT,True
+2014-05-23,Friday,m-basebl,1754123,True,"Omaha, Neb.",Iowa,1,True,Won,7,2013,7:30 p.m. CT,True
+2014-05-24,Saturday,m-basebl,1754124,True,"Omaha, Neb.",Nebraska,6,False,Lost,1,2013,9:00 a.m. CT,True
+2015-02-13,Friday,m-basebl,1847795,True,"Long Beach, Calif.",Long Beach State,3,False,Lost,2,2014,6:00 p.m. PT,False
+2015-02-14,Saturday,m-basebl,1847797,True,"Long Beach, Calif.",Long Beach State,7,False,Lost,2,2014,2:00 p.m. PT,False
+2015-02-15,Sunday,m-basebl,1847799,True,"Long Beach, Calif.",Long Beach State,3,False,Won,5,2014,1:00 p.m. PT,False
+2015-02-20,Friday,m-basebl,1890032,True,"Savannah, Ga.",Tennessee Tech,5,False,Won,6,2014,2:00 p.m. ET,False
+2015-02-21,Saturday,m-basebl,1890126,True,"Savannah, Ga.",Davidson,5,True,Lost,4,2014,12:00 p.m. ET,False
+2015-02-21,Saturday,m-basebl,1890127,True,"Savannah, Ga.",Tennessee Tech,11,True,Lost,8,2014,4:00 p.m. ET,False
+2015-02-22,Sunday,m-basebl,1890128,True,"Savannah, Ga.",Davidson,3,False,Lost,2,2014,9:00 a.m. ET,False
+2015-02-27,Friday,m-basebl,1847805,True,"Port St. Lucie, Fla.",Siena,2,True,Won,6,2014,12:30 p.m. ET,False
+2015-02-27,Friday,m-basebl,1890916,True,"Port St. Lucie, Fla.",Siena,0,True,Won,6,2014,3:00 p.m. ET,False
+2015-02-28,Saturday,m-basebl,1847808,True,"Port St. Lucie, Fla.",Siena,,True,Postponed,,2014,11:00 a.m. ET,False
+2015-03-01,Sunday,m-basebl,1847812,True,"Port St. Lucie, Fla.",Siena,4,True,Won,6,2014,9:30 a.m. ET,False
+2015-03-01,Sunday,m-basebl,1891076,True,"Port St. Lucie, Fla.",Siena,0,True,Won,11,2014,12:00 p.m. ET,False
+2015-03-03,Tuesday,m-basebl,1847813,True,"DeLand, Fla.",Stetson,3,False,Won,6,2014,6:30 p.m. ET,False
+2015-03-06,Friday,m-basebl,1847815,True,"Myrtle Beach, S.C.",UMBC,1,True,Won,8,2014,3:00 p.m. ET,True
+2015-03-07,Saturday,m-basebl,1847818,True,"Conway, S.C.",Toledo,5,True,Won,19,2014,11:00 a.m. ET,True
+2015-03-07,Saturday,m-basebl,1891973,True,"Conway, S.C.",Coastal Carolina,4,False,Won,10,2014,3:00 p.m. ET,True
+2015-03-08,Sunday,m-basebl,1847820,True,"Myrtle Beach, S.C.",Akron,2,False,Lost,0,2014,11:00 a.m. ET,True
+2015-03-13,Friday,m-basebl,1847823,True,"Lawrence, Kan.",Kansas,6,False,Lost,5,2014,3:00 p.m. CT,False
+2015-03-14,Saturday,m-basebl,1847824,True,"Lawrence, Kan.",Kansas,2,False,Won,4,2014,2:00 p.m. CT,False
+2015-03-15,Sunday,m-basebl,1847825,True,"Lawrence, Kan.",Kansas,8,False,Lost,4,2014,12:00 p.m. CT,False
+2015-03-20,Friday,m-basebl,1847827,True,"Lincoln, Neb.",Nebraska,14,False,Lost,3,2014,6:35 p.m. CT,False
+2015-03-21,Saturday,m-basebl,1847829,True,"Lincoln, Neb.",Nebraska,5,False,Lost,1,2014,2:05 p.m. CT,False
+2015-03-22,Sunday,m-basebl,1847831,True,"Lincoln, Neb.",Nebraska,6,False,Lost,3,2014,11:05 a.m. CT,False
+2015-03-24,Tuesday,m-basebl,1847835,True,Wilpon Complex,Bowling Green,3,True,Won,8,2014,4:00 p.m. ET,False
+2015-03-28,Saturday,m-basebl,1847841,True,Wilpon Complex,Maryland,3,True,Lost,1,2014,12:00 p.m. ET,False
+2015-03-28,Saturday,m-basebl,1895231,True,Wilpon Complex,Maryland,1,True,Won,10,2014,2:30 p.m. ET,False
+2015-03-29,Sunday,m-basebl,1847844,True,Wilpon Complex,Maryland,2,True,Won,5,2014,12:00 p.m. ET,False
+2015-03-31,Tuesday,m-basebl,1847847,True,Wilpon Complex,Toledo,3,True,Won,7,2014,4:00 p.m. ET,False
+2015-04-01,Wednesday,m-basebl,1847850,True,Wilpon Complex,Central Michigan,3,True,Won,5,2014,4:00 p.m. ET,False
+2015-04-03,Friday,m-basebl,1847853,True,"Bloomington, Ind.",Indiana,,False,Postponed,,2014,6:05 p.m. ET,False
+2015-04-04,Saturday,m-basebl,1895980,True,"Bloomington, Ind.",Indiana,3,False,Won,7,2014,1:05 p.m. ET,False
+2015-04-04,Saturday,m-basebl,1896053,True,"Bloomington, Ind.",Indiana,13,False,Lost,11,2014,4:30 p.m. ET,False
+2015-04-05,Sunday,m-basebl,1847857,True,"Bloomington, Ind.",Indiana,3,False,Won,4,2014,1:05 p.m. ET,False
+2015-04-07,Tuesday,m-basebl,1894582,True,Wilpon Complex,Eastern Michigan,4,True,Won,18,2014,4:00 p.m. ET,False
+2015-04-10,Friday,m-basebl,1848783,True,"State College, Pa.",Penn State,11,False,Lost,1,2014,5:00 p.m. ET,False
+2015-04-11,Saturday,m-basebl,1848785,True,"State College, Pa.",Penn State,3,False,Won,5,2014,2:00 p.m. ET,False
+2015-04-12,Sunday,m-basebl,1848786,True,"State College, Pa.",Penn State,3,False,Won,8,2014,1:00 p.m. ET,False
+2015-04-14,Tuesday,m-basebl,1870461,True,"Detroit, Mich. (Comerica Park)",Michigan State,4,False,Lost,2,2014,6:35 p.m. ET,False
+2015-04-15,Wednesday,m-basebl,1848793,True,Wilpon Complex,Eastern Michigan,4,True,Lost,2,2014,4:00 p.m. ET,False
+2015-04-17,Friday,m-basebl,1848794,True,Wilpon Complex,Purdue,3,True,Won,9,2014,4:00 p.m. ET,False
+2015-04-18,Saturday,m-basebl,1848797,True,Wilpon Complex,Purdue,0,True,Won,7,2014,1:00 p.m. ET,False
+2015-04-18,Saturday,m-basebl,1897606,True,Wilpon Complex,Purdue,5,True,Won,7,2014,3:30 p.m. ET,False
+2015-04-21,Tuesday,m-basebl,1858967,True,Wilpon Complex,Oakland,4,True,Won,10,2014,4:00 p.m. ET,False
+2015-04-24,Friday,m-basebl,1848804,True,"Minneapolis, Minn.",Minnesota,,False,Postponed,,2014,6:35 p.m. CT,False
+2015-04-25,Saturday,m-basebl,1898282,True,"Minneapolis, Minn.",Minnesota,2,False,Lost,1,2014,2:05 p.m. CT,False
+2015-04-25,Saturday,m-basebl,1848807,True,"Minneapolis, Minn.",Minnesota,2,False,Won,4,2014,6:05 p.m. CT,False
+2015-04-26,Sunday,m-basebl,1848808,True,"Minneapolis, Minn.",Minnesota,3,False,Won,12,2014,12:05 p.m. CT,False
+2015-05-01,Friday,m-basebl,1848809,True,Wilpon Complex,Iowa,13,True,Lost,7,2014,4:00 p.m. ET,False
+2015-05-02,Saturday,m-basebl,1848810,True,Wilpon Complex,Iowa,5,True,Won,11,2014,4:30 p.m. ET,False
+2015-05-03,Sunday,m-basebl,1848812,True,Wilpon Complex,Iowa,2,True,Lost,0,2014,1:00 p.m. ET,False
+2015-05-05,Tuesday,m-basebl,1848813,True,"Chicago, Ill.",UIC,7,False,Lost,0,2014,6:00 p.m. CT,False
+2015-05-06,Wednesday,m-basebl,1848815,True,"Mt. Pleasant, Mich.",Central Michigan,5,False,Won,6,2014,4:05 p.m. ET,False
+2015-05-08,Friday,m-basebl,1848816,True,Wilpon Complex,Northwestern,4,True,Won,12,2014,6:00 p.m. ET,False
+2015-05-09,Saturday,m-basebl,1848817,True,Wilpon Complex,Northwestern,9,True,Lost,8,2014,12:00 p.m. ET,False
+2015-05-10,Sunday,m-basebl,1848818,True,Wilpon Complex,Northwestern,1,True,Won,19,2014,1:00 p.m. ET,False
+2015-05-12,Tuesday,m-basebl,1848819,True,Wilpon Complex,Eastern Michigan,2,True,Won,17,2014,6:00 p.m. ET,False
+2015-05-14,Thursday,m-basebl,1876276,True,Wilpon Complex,Oklahoma State,12,True,Lost,2,2014,6:00 p.m. ET,False
+2015-05-15,Friday,m-basebl,1848820,True,Wilpon Complex,Oklahoma State,11,True,Lost,5,2014,6:00 p.m. ET,False
+2015-05-16,Saturday,m-basebl,1848822,True,Wilpon Complex,Oklahoma State,2,True,Won,6,2014,12:00 p.m. ET,False
+2015-05-20,Wednesday,m-basebl,1848828,True,"Minneapolis, Minn.",Indiana,1,True,Won,4,2014,9:00 a.m. CT,True
+2015-05-21,Thursday,m-basebl,1902618,True,"Minneapolis, Minn.",Iowa,5,False,Won,8,2014,5:00 p.m. CT,True
+2015-05-23,Saturday,m-basebl,1903134,True,"Minneapolis, Minn.",Illinois,3,True,Won,5,2014,1:00 p.m. CT,True
+2015-05-24,Sunday,m-basebl,1848832,True,"Minneapolis, Minn.",Maryland,3,True,Won,4,2014,9:00 a.m. CT,True
+2015-05-29,Friday,m-basebl,1903294,True,"Louisville, Ky.",Bradley,5,False,Won,10,2014,2:00 p.m. ET,True
+2015-05-30,Saturday,m-basebl,1905588,True,"Louisville, Ky.",Louisville,4,True,Lost,3,2014,4:00 p.m. ET,True
+2015-05-31,Sunday,m-basebl,1905658,True,"Louisville, Ky.",Bradley,3,True,Won,4,2014,12:00 p.m. ET,True
+2015-05-31,Sunday,m-basebl,1905700,True,"Louisville, Ky.",Louisville,13,False,Lost,4,2014,4:05 p.m. ET,True
+2016-02-19,Friday,m-basebl,1951093,True,"Port St. Lucie, Fla.",Canisius,0,True,Won,9,2015,2:00 p.m. ET,False
+2016-02-20,Saturday,m-basebl,1951094,True,"Port St. Lucie, Fla.",Canisius,2,True,Won,6,2015,11:00 a.m. ET,False
+2016-02-20,Saturday,m-basebl,1951095,True,"Port St. Lucie, Fla.",Canisius,0,True,Won,3,2015,2:00 p.m. ET,False
+2016-02-21,Sunday,m-basebl,1951096,True,"Port St. Lucie, Fla.",Canisius,3,True,Won,9,2015,11:00 a.m. ET,False
+2016-02-26,Friday,m-basebl,1951098,True,"Santa Clara, Calif.",Saint Joseph's,1,False,Won,5,2015,10:00 a.m. PT,False
+2016-02-27,Saturday,m-basebl,1951099,True,"San Luis Obispo, Calif.",Cal Poly,5,False,Lost,1,2015,12:00 p.m. PT,False
+2016-02-28,Sunday,m-basebl,1951100,True,"Santa Clara, Calif.",Santa Clara,5,False,Lost,3,2015,6:00 p.m. PT,False
+2016-02-29,Monday,m-basebl,1951101,True,"Berkeley, Calif.",Cal,0,False,Won,5,2015,7:00 p.m. PT,False
+2016-03-02,Wednesday,m-basebl,1951102,True,"San Jose, Calif.",San Jose State,5,False,Won,6,2015,6:00 p.m. PT,False
+2016-03-03,Thursday,m-basebl,1951103,True,"Davis, Calif.",UC Davis,4,False,Lost,3,2015,2:00 p.m. PT,False
+2016-03-04,Friday,m-basebl,1951092,True,"Davis, Calif.",UC Davis,,False,Postponed,,2015,12:00 p.m. PT,False
+2016-03-05,Saturday,m-basebl,1972206,True,"Davis, Calif.",UC Davis,,False,Cancelled,,2015,12:00 p.m. PT,False
+2016-03-05,Saturday,m-basebl,1972207,True,"Davis, Calif.",UC Davis,,False,Cancelled,,2015,3:00 p.m. PT,False
+2016-03-10,Thursday,m-basebl,1951105,True,"Honolulu, Hawaii",Hawaii,0,False,Won,6,2015,6:30 p.m. HT,False
+2016-03-11,Friday,m-basebl,1951106,True,"Honolulu, Hawaii",Hawaii,4,False,Won,5,2015,6:30 p.m. HT,False
+2016-03-12,Saturday,m-basebl,1951107,True,"Honolulu, Hawaii",Hawaii,4,False,Won,9,2015,12:05 p.m. HT,False
+2016-03-12,Saturday,m-basebl,1952420,True,"Honolulu, Hawaii",Hawaii,3,False,Won,5,2015,3:05 p.m. HT,False
+2016-03-18,Friday,m-basebl,1951109,True,"Stillwater, Okla.",Oklahoma State,6,False,Lost,3,2015,4:00 p.m. CT,False
+2016-03-19,Saturday,m-basebl,1951110,True,"Stillwater, Okla.",Oklahoma State,5,False,Lost,4,2015,2:00 p.m. CT,False
+2016-03-20,Sunday,m-basebl,1951111,True,"Stillwater, Okla.",Oklahoma State,2,False,Won,4,2015,12:00 p.m. CT,False
+2016-03-25,Friday,m-basebl,1951112,True,Wilpon Complex,UIC,2,True,Won,10,2015,4:00 p.m. ET,False
+2016-03-26,Saturday,m-basebl,1951113,True,Wilpon Complex,UIC,0,True,Won,5,2015,12:00 p.m. ET,False
+2016-03-26,Saturday,m-basebl,1951114,True,Wilpon Complex,UIC,4,True,Won,10,2015,3:00 p.m. ET,False
+2016-03-27,Sunday,m-basebl,1951115,True,Wilpon Complex,UIC,4,True,Won,5,2015,1:00 p.m. ET,False
+2016-03-29,Tuesday,m-basebl,1951116,True,Wilpon Complex,Central Michigan,7,True,Won,9,2015,4:00 p.m. ET,False
+2016-04-01,Friday,m-basebl,1951117,True,"Evanston, Ill.",Northwestern,4,False,Won,10,2015,12:00 p.m. CT,False
+2016-04-01,Friday,m-basebl,1975319,True,"Evanston, Ill.",Northwestern,3,False,Won,12,2015,3:00 p.m. CT,False
+2016-04-03,Sunday,m-basebl,1951119,True,"Evanston, Ill.",Northwestern,9,False,Won,11,2015,1:00 p.m. CT,False
+2016-04-05,Tuesday,m-basebl,1951120,True,"South Bend, Ind.",Notre Dame,9,False,Lost,5,2015,6:05 p.m. ET,False
+2016-04-06,Wednesday,m-basebl,1951121,True,Wilpon Complex,Bowling Green,0,True,Won,5,2015,4:00 p.m. ET,False
+2016-04-08,Friday,m-basebl,1976051,True,Wilpon Complex,Minnesota,8,True,Lost,1,2015,12:00 p.m. ET,False
+2016-04-08,Friday,m-basebl,1951122,True,Wilpon Complex,Minnesota,5,True,Lost,3,2015,3:00 p.m. ET,False
+2016-04-10,Sunday,m-basebl,1951124,True,Wilpon Complex,Minnesota,,True,Cancelled,,2015,1:00 p.m. ET,False
+2016-04-12,Tuesday,m-basebl,1975889,True,"East Lansing, Mich.",Michigan State,11,False,Lost,5,2015,4:00 p.m. ET,False
+2016-04-13,Wednesday,m-basebl,1963863,True,Wilpon Complex,Eastern Michigan,3,True,Won,19,2015,4:00 p.m. ET,False
+2016-04-15,Friday,m-basebl,1951133,True,Wilpon Complex,Nebraska,6,True,Won,10,2015,6:00 p.m. ET,False
+2016-04-16,Saturday,m-basebl,1951134,True,Wilpon Complex,Nebraska,2,True,Won,7,2015,2:00 p.m. ET,False
+2016-04-17,Sunday,m-basebl,1951135,True,Wilpon Complex,Nebraska,1,True,Won,6,2015,1:00 p.m. ET,False
+2016-04-20,Wednesday,m-basebl,1951136,True,Wilpon Complex,Toledo,1,True,Won,2,2015,4:00 p.m. ET,False
+2016-04-22,Friday,m-basebl,1951137,True,"Iowa City, Iowa",Iowa,4,False,Won,8,2015,6:00 p.m. CT,False
+2016-04-23,Saturday,m-basebl,1951138,True,"Iowa City, Iowa",Iowa,9,False,Won,12,2015,3:00 p.m. CT,False
+2016-04-24,Sunday,m-basebl,1951139,True,"Iowa City, Iowa",Iowa,8,False,Lost,3,2015,11:00 a.m. CT,False
+2016-04-29,Friday,m-basebl,1951140,True,Wilpon Complex,Michigan State,3,True,Won,4,2015,6:00 p.m. ET,False
+2016-04-30,Saturday,m-basebl,1951143,True,"East Lansing, Mich.",Michigan State,7,False,Lost,6,2015,1:05 p.m. ET,False
+2016-05-01,Sunday,m-basebl,1951141,True,Wilpon Complex,Michigan State,7,True,Lost,4,2015,1:00 p.m. ET,False
+2016-05-03,Tuesday,m-basebl,1951144,True,Wilpon Complex,Eastern Michigan,4,True,Won,12,2015,6:00 p.m. ET,False
+2016-05-04,Wednesday,m-basebl,1951146,True,"Ypsilanti, Mich.",Eastern Michigan,0,False,Won,12,2015,6:00 p.m. ET,False
+2016-05-06,Friday,m-basebl,1951147,True,Wilpon Complex,Rutgers,1,True,Won,14,2015,6:00 p.m. ET,False
+2016-05-07,Saturday,m-basebl,1951176,True,Wilpon Complex,Rutgers,1,True,Won,13,2015,6:00 p.m. ET,False
+2016-05-08,Sunday,m-basebl,1951178,True,Wilpon Complex,Rutgers,5,True,Won,12,2015,12:00 p.m. ET,False
+2016-05-11,Wednesday,m-basebl,1951179,True,"Mt. Pleasant, Mich.",Central Michigan,8,False,Lost,7,2015,4:00 p.m. ET,False
+2016-05-13,Friday,m-basebl,1951180,True,"Columbus, Ohio",Ohio State,3,False,Lost,2,2015,6:30 p.m. ET,False
+2016-05-14,Saturday,m-basebl,1951181,True,"Columbus, Ohio",Ohio State,7,False,Lost,3,2015,3:00 p.m. ET,False
+2016-05-15,Sunday,m-basebl,1951183,True,"Columbus, Ohio",Ohio State,8,False,Lost,2,2015,3:00 p.m. ET,False
+2016-05-17,Tuesday,m-basebl,1978313,True,Wilpon Complex,Oakland,6,True,Lost,5,2015,6:00 p.m. ET,False
+2016-05-19,Thursday,m-basebl,1972806,True,"Champaign, Ill.",Illinois,0,False,Won,1,2015,6:00 p.m. CT,False
+2016-05-20,Friday,m-basebl,1951185,True,"Champaign, Ill.",Illinois,11,False,Lost,8,2015,6:00 p.m. CT,False
+2016-05-21,Saturday,m-basebl,1951186,True,"Champaign, Ill.",Illinois,6,False,Lost,3,2015,3:30 p.m. CT,False
+2016-05-25,Wednesday,m-basebl,1980983,True,"Omaha, Neb.",Ohio State,8,False,Lost,3,2015,9:00 p.m. CT,True
+2016-05-26,Thursday,m-basebl,1951208,True,"Omaha, Neb.",Minnesota,2,True,Won,3,2015,1:00 p.m. CT,True
+2016-05-27,Friday,m-basebl,1981692,True,"Omaha, Neb.",Ohio State,,False,,,2015,9:00 p.m. CT,True
+2016-05-28,Saturday,m-basebl,1951216,True,"Omaha, Neb.",Ohio State,11,True,Lost,4,2015,1:00 p.m. CT,True
+2017-02-17,Friday,m-basebl,2015404,True,"Port St Lucie, Fla.",Seton Hall,5,True,Lost,4,2016,3:00 p.m. ET,False
+2017-02-18,Saturday,m-basebl,2015405,True,"Port St Lucie, Fla.",Seton Hall,7,True,Won,8,2016,11:00 a.m. ET,False
+2017-02-18,Saturday,m-basebl,2015408,True,"Port St Lucie, Fla.",Seton Hall,,True,Postponed,,2016,2:00 p.m. ET,False
+2017-02-19,Sunday,m-basebl,2029340,True,"Port St. Lucie, Fla.",Seton Hall,7,True,Won,10,2016,10:00 a.m. ET,False
+2017-02-19,Sunday,m-basebl,2015410,True,"Port St Lucie, Fla.",Seton Hall,8,True,Lost,6,2016,11:00 a.m. ET,False
+2017-02-24,Friday,m-basebl,2015411,True,"Santa Clara, Calif.",Saint Louis,1,True,Won,6,2016,1:00 p.m. PT,True
+2017-02-25,Saturday,m-basebl,2015413,True,"Santa Clara, Calif.",Creighton,6,False,Won,7,2016,1:00 p.m. PT,True
+2017-02-26,Sunday,m-basebl,2015415,True,"Santa Clara, Calif.",Santa Clara,3,False,Won,10,2016,3:00 p.m. PT,True
+2017-02-27,Monday,m-basebl,2015417,True,"Stockton, Calif.",San Jose State,2,False,Won,6,2016,5:00 p.m. PT,False
+2017-03-01,Wednesday,m-basebl,2015381,True,"Los Angeles, Calif.",Loyola Marymount,2,False,Won,14,2016,6:00 p.m. PT,False
+2017-03-03,Friday,m-basebl,2015420,True,"Los Angeles, Calif.",UCLA,1,False,Lost,0,2016,6:00 p.m. PT,True
+2017-03-04,Saturday,m-basebl,2015421,True,"Los Angeles, Calif.",USC,1,False,Won,4,2016,6:00 p.m. PT,True
+2017-03-05,Sunday,m-basebl,2015423,True,"Los Angeles, Calif. (Dodger Stadium)",San Diego,1,True,Won,3,2016,11:00 a.m. PT,True
+2017-03-10,Friday,m-basebl,2015425,True,"Nashville, Tenn.",Lipscomb University,2,False,Won,8,2016,1:00 p.m. CT,False
+2017-03-10,Friday,m-basebl,2031207,True,"Nashville, Tenn.",Lipscomb University,3,False,Won,4,2016,4:00 p.m. CT,False
+2017-03-12,Sunday,m-basebl,2015428,True,"Nashville, Tenn.",Lipscomb University,0,False,Won,5,2016,1:00 p.m. CT,False
+2017-03-16,Thursday,m-basebl,2032286,True,Wilpon Complex,NIU,4,True,Won,7,2016,4:00 p.m. ET,False
+2017-03-17,Friday,m-basebl,2015429,True,Wilpon Complex,NIU,,True,Postponed,,2016,4:00 p.m. ET,False
+2017-03-18,Saturday,m-basebl,2015430,True,Wilpon Complex,NIU,8,True,Lost,5,2016,1:00 p.m. ET,False
+2017-03-19,Sunday,m-basebl,2015432,True,Wilpon Complex,NIU,4,True,Won,7,2016,12:00 p.m. ET,False
+2017-03-19,Sunday,m-basebl,2032504,True,Wilpon Complex,NIU,3,True,Won,8,2016,3:00 p.m. ET,False
+2017-03-22,Wednesday,m-basebl,2015433,True,Wilpon Complex,Western Michigan,4,True,Won,6,2016,4:00 p.m. ET,False
+2017-03-24,Friday,m-basebl,2015434,True,"College Park, Md.",Maryland,7,False,Lost,2,2016,6:30 p.m. ET,False
+2017-03-25,Saturday,m-basebl,2015435,True,"College Park, Md.",Maryland,5,False,Lost,4,2016,7:00 p.m. ET,False
+2017-03-26,Sunday,m-basebl,2015436,True,"College Park, Md.",Maryland,2,False,Won,6,2016,1:00 p.m. ET,False
+2017-03-28,Tuesday,m-basebl,2015437,True,Wilpon Complex,Toledo,0,True,Won,12,2016,4:00 p.m. ET,False
+2017-03-29,Wednesday,m-basebl,2026541,True,Wilpon Complex,Central Michigan,4,True,Won,13,2016,4:00 p.m. ET,False
+2017-03-31,Friday,m-basebl,2026543,True,Wilpon Complex,Penn State,6,True,Won,10,2016,4:00 p.m. ET,False
+2017-04-01,Saturday,m-basebl,2026546,True,Wilpon Complex,Penn State,,True,,,2016,2:00 p.m. ET,False
+2017-04-02,Sunday,m-basebl,2026549,True,Wilpon Complex,Penn State,,True,,,2016,1:00 p.m. ET,False
+2017-04-04,Tuesday,m-basebl,2015444,True,Wilpon Complex,Notre Dame,,True,,,2016,7:00 p.m. ET,False
+2017-04-05,Wednesday,m-basebl,2015447,True,Wilpon Complex,Bowling Green,,True,,,2016,4:00 p.m. ET,False
+2017-04-07,Friday,m-basebl,2015449,True,Wilpon Complex,Illinois,,True,,,2016,4:00 p.m. ET,False
+2017-04-08,Saturday,m-basebl,2015450,True,Wilpon Complex,Illinois,,True,,,2016,2:00 p.m. ET,False
+2017-04-09,Sunday,m-basebl,2015451,True,Wilpon Complex,Illinois,,True,,,2016,1:00 p.m. ET,False
+2017-04-11,Tuesday,m-basebl,2015455,True,Wilpon Complex,Eastern Michigan,,True,,,2016,4:00 p.m. ET,False
+2017-04-13,Thursday,m-basebl,2015456,True,Wilpon Complex,Oklahoma,,True,,,2016,4:00 p.m. ET,False
+2017-04-14,Friday,m-basebl,2015457,True,Wilpon Complex,Oklahoma,,True,,,2016,4:00 p.m. ET,False
+2017-04-15,Saturday,m-basebl,2015458,True,Wilpon Complex,Oklahoma,,True,,,2016,2:00 p.m. ET,False
+2017-04-18,Tuesday,m-basebl,2015461,True,Wilpon Complex,Michigan State,,True,,,2016,6:00 p.m. ET,False
+2017-04-21,Friday,m-basebl,2015463,True,Wilpon Complex,Indiana,,True,,,2016,6:00 p.m. ET,False
+2017-04-22,Saturday,m-basebl,2015464,True,Wilpon Complex,Indiana,,True,,,2016,2:00 p.m. ET,False
+2017-04-23,Sunday,m-basebl,2015465,True,Wilpon Complex,Indiana,,True,,,2016,12:00 p.m. ET,False
+2017-04-28,Friday,m-basebl,2026552,True,"Piscataway, N.J.",Rutgers,,False,,,2016,TBA ,False
+2017-04-29,Saturday,m-basebl,2026553,True,"Piscataway, N.J.",Rutgers,,False,,,2016,TBA ,False
+2017-04-30,Sunday,m-basebl,2026555,True,"Piscataway, N.J.",Rutgers,,False,,,2016,TBA ,False
+2017-05-05,Friday,m-basebl,2026556,True,Wilpon Complex,Ohio State,,True,,,2016,6:00 p.m. ET,False
+2017-05-06,Saturday,m-basebl,2026558,True,Wilpon Complex,Ohio State,,True,,,2016,2:00 p.m. ET,False
+2017-05-07,Sunday,m-basebl,2026559,True,Wilpon Complex,Ohio State,,True,,,2016,4:00 p.m. ET,False
+2017-05-09,Tuesday,m-basebl,2026560,True,Wilpon Complex,Central Michigan,,True,,,2016,6:00 p.m. ET,False
+2017-05-10,Wednesday,m-basebl,2026561,True,"Mount Pleasant, Mich.",Central Michigan,,False,,,2016,4:05 p.m. ET,False
+2017-05-12,Friday,m-basebl,2015478,True,"West Lafayette, Ind.",Purdue,,False,,,2016,6:00 p.m. ET,False
+2017-05-13,Saturday,m-basebl,2015479,True,"West Lafayette, Ind.",Purdue,,False,,,2016,6:00 p.m. ET,False
+2017-05-14,Sunday,m-basebl,2015480,True,"West Lafayette, Ind.",Purdue,,False,,,2016,3:00 p.m. ET,False
+2017-05-16,Tuesday,m-basebl,2015481,True,Wilpon Complex,Eastern Michigan,,True,,,2016,6:00 p.m. ET,False
+2017-05-18,Thursday,m-basebl,2015400,True,"East Lansing, Mich.",Michigan State,,False,,,2016,4:05 p.m. ET,False
+2017-05-19,Friday,m-basebl,2026562,True,Wilpon Complex,Michigan State,,True,,,2016,6:00 p.m. ET,False
+2017-05-20,Saturday,m-basebl,2026563,True,"East Lansing, Mich.",Michigan State,,False,,,2016,1:05 p.m. ET,False
+2017-05-24,Wednesday,m-basebl,2017179,True,"Bloomington, Ind.",Big Ten Tournament,,True,,,2016,TBA ,True
+2017-05-25,Thursday,m-basebl,2017180,True,"Bloomington, Ind.",Big Ten Tournament,,True,,,2016,TBA ,True
+2017-05-26,Friday,m-basebl,2017182,True,"Bloomington, Ind.",Big Ten Tournament,,True,,,2016,TBA ,True
+2017-05-27,Saturday,m-basebl,2017184,True,"Bloomington, Ind.",Big Ten Tournament,,True,,,2016,TBA ,True
+2017-05-28,Sunday,m-basebl,2017183,True,"Bloomington, Ind.",Big Ten Tournament,,True,,,2016,TBA ,True
+2017-06-02,Friday,m-basebl,2024462,True,Campus Sites,NCAA Regional,,True,,,2016,TBA ,True
+2017-06-03,Saturday,m-basebl,2024463,True,Campus Sites,NCAA Regional,,True,,,2016,TBA ,True
+2017-06-04,Sunday,m-basebl,2024464,True,Campus Sites,NCAA Regional,,True,,,2016,TBA ,True
+2017-06-09,Friday,m-basebl,2024465,True,Campus Sites,NCAA Super Regional,,True,,,2016,TBA ,True
+2017-06-10,Saturday,m-basebl,2024466,True,Campus Sites,NCAA Super Regional,,True,,,2016,TBA ,True
+2017-06-11,Sunday,m-basebl,2024467,True,Campus Sites,NCAA Super Regional,,True,,,2016,TBA ,True
+2017-06-17,Saturday,m-basebl,2024468,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-18,Sunday,m-basebl,2024469,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-19,Monday,m-basebl,2024470,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-20,Tuesday,m-basebl,2024471,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-21,Wednesday,m-basebl,2024472,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-22,Thursday,m-basebl,2024473,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-23,Friday,m-basebl,2024474,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-24,Saturday,m-basebl,2024475,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-25,Sunday,m-basebl,2024476,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-26,Monday,m-basebl,2024477,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-27,Tuesday,m-basebl,2024478,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
+2017-06-28,Wednesday,m-basebl,2024479,True,"Omaha, Neb.",NCAA College World Series,,True,,,2016,TBA ,True
